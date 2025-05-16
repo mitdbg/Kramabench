@@ -1,0 +1,44 @@
+[
+    {
+        "name": "extraction",
+        "metrics": ["Accuracy", "Precision", "Recall", "Success", "F1"],
+        "input_types": ["queries"],
+        "output_types": ["text", "json"],
+        "subtask_types": ["extraction", "calculation"]
+    },
+    {
+        "name": "complex_qa",
+        "metrics": ["Accuracy", "Precision", "Recall", "Success", "F1", "BLEU", "ROUGE"],
+        "input_types": ["queries"],
+        "output_types": ["text", "json"],
+        "subtask_types": ["extraction", "calculation", "calculation", "prediction", "summarization", "complex_qa", "explanation"]
+    },
+    {
+        "name": "calculation",
+        "metrics": ["Success"],
+        "input_types": ["queries"],
+        "output_types": ["text", "json"],
+        "subtask_types": ["extraction", "calculation"]
+    },
+    {
+        "name": "prediction",
+        "metrics": ["Success"],
+        "input_types": ["queries"],
+        "output_types": ["text", "json"],
+        "subtask_types": ["extraction", "calculation"]
+    },
+    {
+        "name": "summarization",
+        "metrics": ["BLEU", "ROUGE"],
+        "input_types": ["queries"],
+        "output_types": ["text"],
+        "subtask_types": ["extraction", "calculation", "prediction", "summarization", "complex_qa"]
+    },
+    {
+        "name": "explanation",
+        "metrics": ["BLEU", "ROUGE"],
+        "input_types": ["queries"],
+        "output_types": ["text"],
+        "subtask_types": ["extraction", "calculation", "prediction", "summarization", "complex_qa", "explanation"]
+    }
+]

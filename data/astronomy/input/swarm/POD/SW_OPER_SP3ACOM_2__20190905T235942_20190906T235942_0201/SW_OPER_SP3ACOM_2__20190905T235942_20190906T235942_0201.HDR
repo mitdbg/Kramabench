@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Earth_Explorer_Header xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <Fixed_Header>
+    <File_Name>SW_OPER_SP3ACOM_2__20190905T235942_20190906T235942_0201</File_Name>
+    <File_Description>Time series of dynamic position and velocity of the center of mass of each satellite in the ITRF (Earth-fixed) frame</File_Description>
+    <Notes/>
+    <Mission>Swarm</Mission>
+    <File_Class>OPER</File_Class>
+    <File_Type>SP3ACOM_2_</File_Type>
+    <Validity_Period>
+      <Validity_Start>UTC=2019-09-05T23:59:42</Validity_Start>
+      <Validity_Stop>UTC=2019-09-06T23:59:42</Validity_Stop>
+    </Validity_Period>
+    <File_Version>0201</File_Version>
+    <Source>
+      <System>SPC</System>
+      <Creator>SPC_DUT</Creator>
+      <Creator_Version>44.88</Creator_Version>
+      <Creation_Date>UTC=2022-05-02T09:28:40</Creation_Date>
+    </Source>
+  </Fixed_Header>
+
+  <Variable_Header>
+    <MPH>
+      <Product>SW_OPER_SP3ACOM_2__20190905T235942_20190906T235942_0201</Product>
+      <Product_Format>ASCII</Product_Format>
+      <Proc_Stage_Code>OPER</Proc_Stage_Code>
+      <Ref_Doc>SW-DS-DTU-GS-0001</Ref_Doc>
+      <Proc_Center>DUT</Proc_Center>
+      <Proc_Time>UTC=2022-05-02T09:28:40.000000</Proc_Time>
+      <Software_Version>L2PS-DUT/44.88</Software_Version>
+      <Product_Err>0</Product_Err>
+      <Tot_Size unit="bytes">+00000000000001583043</Tot_Size>
+      <CRC>+2632210858</CRC>
+    </MPH>
+    <SPH>
+      <SPH_Descriptor>SP3ACOM_2_</SPH_Descriptor>
+      <Original_Filename>SW_OPER_SP3ACOM_2__20190905T235942_20190906T235942_0201.sp3</Original_Filename>
+      <Sensing_Time_Interval>
+        <Sensing_Start>UTC=2019-09-05T23:59:42.000000</Sensing_Start>
+        <Sensing_Stop>UTC=2019-09-06T23:59:42.000000</Sensing_Stop>
+      </Sensing_Time_Interval>
+      <Product_Confidence_Data>
+        <Quality_Indicator>000</Quality_Indicator>
+      </Product_Confidence_Data>
+      <List_of_Input_File_Names count="4">
+        <File_Name>SW_OPER_GPSA_RO_1B_20190906T000000_20190906T235959_0401.rnx</File_Name>
+        <File_Name>SW_OPER_STRAATT_1B_20190906T000000_20190906T235959_0401_MDR_SAT_AT.cdf</File_Name>
+        <File_Name>SW_OPER_SC_ADYN_1B_20190906T000000_20190906T235959_0401_MDR_SC_DYN.cdf</File_Name>
+        <File_Name>SW_OPER_MODA_SC_1B_20190906T000000_20190906T235959_0401.sp3</File_Name>
+      </List_of_Input_File_Names>
+      <List_of_Output_File_Names count="1">
+        <File_Name>SW_OPER_SP3ACOM_2__20190905T235942_20190906T235942_0201.sp3</File_Name>
+      </List_of_Output_File_Names>
+    </SPH>
+  </Variable_Header>
+
+</Earth_Explorer_Header>

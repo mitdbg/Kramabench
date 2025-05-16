@@ -1,0 +1,10 @@
+[
+    {
+        "name": "query",
+        "data_type": "text"
+    },
+    {
+        "name": "system_instruction",
+        "data_type": "text"
+    }
+]

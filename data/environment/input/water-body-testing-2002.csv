@@ -1,0 +1,651 @@
+Community Code,Community,County Code,County Description,Year,Sample Date,Beach Name,Beach Type Description,Organism,Indicator Level,Violation
+041,Brewster,001,Barnstable,2002,2002-06-19 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-08 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-01 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-11 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-13 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-18 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-20 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-25 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-29 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-02 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-27 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,8,no
+041,Brewster,001,Barnstable,2002,2002-08-15 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-22 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,8,no
+041,Brewster,001,Barnstable,2002,2002-06-06 00:00:00,Blueberry Hills Property Owners Association,Fresh,E. Coli,4,no
+096,Falmouth,001,Barnstable,2002,2002-07-10 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-07-31 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-06-26 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-07-03 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-07-24 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-06-19 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-08-26 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-08-21 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-08-14 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-07-17 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-06-05 00:00:00,Bristol (West),Marine,Enterococci,2,no
+096,Falmouth,001,Barnstable,2002,2002-06-12 00:00:00,Bristol (West),Marine,Enterococci,6,no
+096,Falmouth,001,Barnstable,2002,2002-08-07 00:00:00,Bristol (West),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-06-16 00:00:00,Buck's Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-11 00:00:00,Camp Favorite,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-27 00:00:00,Camp Favorite,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-25 00:00:00,Camp Favorite,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-08 00:00:00,Camp Favorite,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-18 00:00:00,Camp Favorite,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-01 00:00:00,Camp Favorite,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-22 00:00:00,Camp Favorite,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-15 00:00:00,Camp Favorite,Fresh,E. Coli,20,no
+041,Brewster,001,Barnstable,2002,2002-08-29 00:00:00,Camp Favorite,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-02 00:00:00,Camp Favorite,Fresh,E. Coli,4,no
+086,Eastham,001,Barnstable,2002,2002-08-12 00:00:00,Campground,Marine,Enterococci,2,no
+086,Eastham,001,Barnstable,2002,2002-08-26 00:00:00,Campground,Marine,Enterococci,2,no
+086,Eastham,001,Barnstable,2002,2002-08-20 00:00:00,Campground,Marine,Enterococci,14,no
+086,Eastham,001,Barnstable,2002,2002-08-01 00:00:00,Campground,Marine,Enterococci,2,no
+086,Eastham,001,Barnstable,2002,2002-06-03 00:00:00,Campground,Marine,Enterococci,10,no
+086,Eastham,001,Barnstable,2002,2002-08-19 00:00:00,Campground,Marine,Enterococci,208,yes
+086,Eastham,001,Barnstable,2002,2002-06-17 00:00:00,Campground,Marine,Enterococci,2,no
+086,Eastham,001,Barnstable,2002,2002-07-08 00:00:00,Campground,Marine,Enterococci,2,no
+086,Eastham,001,Barnstable,2002,2002-07-01 00:00:00,Campground,Marine,Enterococci,22,no
+086,Eastham,001,Barnstable,2002,2002-06-24 00:00:00,Campground,Marine,Enterococci,58,no
+086,Eastham,001,Barnstable,2002,2002-08-05 00:00:00,Campground,Marine,Enterococci,12,no
+086,Eastham,001,Barnstable,2002,2002-07-15 00:00:00,Campground,Marine,Enterococci,2,no
+041,Brewster,001,Barnstable,2002,2002-07-25 00:00:00,Cape Cod Sea Camps (Long Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-01 00:00:00,Cape Cod Sea Camps (Long Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-02 00:00:00,Cape Cod Sea Camps (Long Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-15 00:00:00,Cape Cod Sea Camps (Long Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-18 00:00:00,Cape Cod Sea Camps (Long Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-27 00:00:00,Cape Cod Sea Camps (Long Pond),Fresh,E. Coli,12,no
+041,Brewster,001,Barnstable,2002,2002-08-08 00:00:00,Cape Cod Sea Camps (Long Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-11 00:00:00,Cape Cod Sea Camps (Long Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-20 00:00:00,Cape Cod Sea Camps (Long Pond),Fresh,E. Coli,4,no
+318,Wellfleet,001,Barnstable,2002,2002-06-03 00:00:00,Gull Pond Landing,Fresh,E. Coli,5,no
+126,Harwich,001,Barnstable,2002,2002-06-16 00:00:00,Hinkley's Pond,Fresh,E. Coli,4,no
+126,Harwich,001,Barnstable,2002,2002-06-16 00:00:00,Long Pond (Cahoon Street),Fresh,E. Coli,2,no
+126,Harwich,001,Barnstable,2002,2002-06-16 00:00:00,Long Pond (Long Pond Drive),Fresh,E. Coli,2,no
+126,Harwich,001,Barnstable,2002,2002-06-16 00:00:00,Long Pond (Rte 124),Fresh,E. Coli,2,no
+126,Harwich,001,Barnstable,2002,2002-08-06 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,16,no
+126,Harwich,001,Barnstable,2002,2002-08-06 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-20 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-06-25 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-09 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,18,no
+126,Harwich,001,Barnstable,2002,2002-08-27 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-20 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-06-18 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,4,no
+126,Harwich,001,Barnstable,2002,2002-06-04 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-13 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-09 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,18,no
+126,Harwich,001,Barnstable,2002,2002-07-23 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,4,no
+126,Harwich,001,Barnstable,2002,2002-08-01 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-16 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-06-11 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,14,no
+126,Harwich,001,Barnstable,2002,2002-08-13 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-23 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-06-25 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-03 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-03 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-01 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-16 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-06-18 00:00:00,Old Mill Point Association (Strandway) @ Strandway,Marine,Enterococci,4,no
+126,Harwich,001,Barnstable,2002,2002-08-27 00:00:00,Old Mill Point Association (Strandway) @ Sea,Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-06-25 00:00:00,Red River (East),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-16 00:00:00,Red River (East),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-01 00:00:00,Red River (East),Marine,Enterococci,4,no
+126,Harwich,001,Barnstable,2002,2002-08-06 00:00:00,Red River (East),Marine,Enterococci,3,no
+126,Harwich,001,Barnstable,2002,2002-08-27 00:00:00,Red River (East),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-03 00:00:00,Red River (East),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-23 00:00:00,Red River (East),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-13 00:00:00,Red River (East),Marine,Enterococci,8,no
+126,Harwich,001,Barnstable,2002,2002-08-20 00:00:00,Red River (East),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-09 00:00:00,Red River (East),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-23 00:00:00,Red River (Middle),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-27 00:00:00,Red River (Middle),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-20 00:00:00,Red River (Middle),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-06-18 00:00:00,Red River (Middle),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-06 00:00:00,Red River (Middle),Marine,Enterococci,4,no
+126,Harwich,001,Barnstable,2002,2002-07-09 00:00:00,Red River (Middle),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-16 00:00:00,Red River (Middle),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-01 00:00:00,Red River (Middle),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-06-25 00:00:00,Red River (Middle),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-08-13 00:00:00,Red River (Middle),Marine,Enterococci,2,no
+126,Harwich,001,Barnstable,2002,2002-07-03 00:00:00,Red River (Middle),Marine,Enterococci,20,no
+126,Harwich,001,Barnstable,2002,2002-06-16 00:00:00,Robbins Pond,Fresh,E. Coli,2,no
+041,Brewster,001,Barnstable,2002,2002-07-25 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-06 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-13 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-15 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-08 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,20,no
+041,Brewster,001,Barnstable,2002,2002-07-18 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-01 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,32,no
+041,Brewster,001,Barnstable,2002,2002-08-29 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-22 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,280,yes
+041,Brewster,001,Barnstable,2002,2002-06-20 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-11 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-23 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,108,no
+041,Brewster,001,Barnstable,2002,2002-06-27 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-02 00:00:00,Robinwood Homeowners Association (Owl Pond),Fresh,E. Coli,4,no
+242,Provincetown,001,Barnstable,2002,2002-07-23 00:00:00,Ryder Street @ Left,Marine,Enterococci,106,yes
+242,Provincetown,001,Barnstable,2002,2002-07-16 00:00:00,Ryder Street @ Right,Marine,Enterococci,4,no
+242,Provincetown,001,Barnstable,2002,2002-07-09 00:00:00,Ryder Street @ Left,Marine,Enterococci,24,no
+242,Provincetown,001,Barnstable,2002,2002-07-02 00:00:00,Ryder Street @ Right,Marine,Enterococci,14,no
+242,Provincetown,001,Barnstable,2002,2002-07-02 00:00:00,Ryder Street @ Middle,Marine,Enterococci,22,no
+242,Provincetown,001,Barnstable,2002,2002-07-02 00:00:00,Ryder Street @ Left,Marine,Enterococci,6,no
+242,Provincetown,001,Barnstable,2002,2002-06-19 00:00:00,Ryder Street @ Left,Marine,Enterococci,6,no
+242,Provincetown,001,Barnstable,2002,2002-08-27 00:00:00,Ryder Street @ Left,Marine,Enterococci,10,no
+242,Provincetown,001,Barnstable,2002,2002-07-23 00:00:00,Ryder Street @ Middle,Marine,Enterococci,40,no
+242,Provincetown,001,Barnstable,2002,2002-06-26 00:00:00,Ryder Street @ Right,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-06-10 00:00:00,Ryder Street @ Right,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-08-06 00:00:00,Ryder Street @ Left,Marine,Enterococci,26,no
+242,Provincetown,001,Barnstable,2002,2002-07-23 00:00:00,Ryder Street @ Right,Marine,Enterococci,62,no
+242,Provincetown,001,Barnstable,2002,2002-07-09 00:00:00,Ryder Street @ Right,Marine,Enterococci,16,no
+242,Provincetown,001,Barnstable,2002,2002-07-09 00:00:00,Ryder Street @ Middle,Marine,Enterococci,34,no
+242,Provincetown,001,Barnstable,2002,2002-08-13 00:00:00,Ryder Street @ Middle,Marine,Enterococci,8,no
+242,Provincetown,001,Barnstable,2002,2002-08-13 00:00:00,Ryder Street @ Left,Marine,Enterococci,6,no
+242,Provincetown,001,Barnstable,2002,2002-08-20 00:00:00,Ryder Street @ Right,Marine,Enterococci,50,no
+242,Provincetown,001,Barnstable,2002,2002-08-20 00:00:00,Ryder Street @ Left,Marine,Enterococci,42,no
+242,Provincetown,001,Barnstable,2002,2002-06-10 00:00:00,Ryder Street @ Middle,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-06-04 00:00:00,Ryder Street @ Middle,Marine,Enterococci,4,no
+242,Provincetown,001,Barnstable,2002,2002-07-24 00:00:00,Ryder Street @ Right,Marine,Enterococci,8,no
+242,Provincetown,001,Barnstable,2002,2002-08-27 00:00:00,Ryder Street @ Right,Marine,Enterococci,28,no
+242,Provincetown,001,Barnstable,2002,2002-08-06 00:00:00,Ryder Street @ Right,Marine,Enterococci,68,no
+242,Provincetown,001,Barnstable,2002,2002-07-16 00:00:00,Ryder Street @ Middle,Marine,Enterococci,4,no
+242,Provincetown,001,Barnstable,2002,2002-06-26 00:00:00,Ryder Street @ Left,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-06-26 00:00:00,Ryder Street @ Middle,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-07-24 00:00:00,Ryder Street @ Left,Marine,Enterococci,10,no
+242,Provincetown,001,Barnstable,2002,2002-08-06 00:00:00,Ryder Street @ Middle,Marine,Enterococci,18,no
+242,Provincetown,001,Barnstable,2002,2002-06-19 00:00:00,Ryder Street @ Middle,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-06-10 00:00:00,Ryder Street @ Left,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-06-04 00:00:00,Ryder Street @ Left,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-07-16 00:00:00,Ryder Street @ Left,Marine,Enterococci,18,no
+242,Provincetown,001,Barnstable,2002,2002-06-19 00:00:00,Ryder Street @ Right,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-06-04 00:00:00,Ryder Street @ Right,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-08-20 00:00:00,Ryder Street @ Middle,Marine,Enterococci,42,no
+242,Provincetown,001,Barnstable,2002,2002-08-27 00:00:00,Ryder Street @ Middle,Marine,Enterococci,20,no
+242,Provincetown,001,Barnstable,2002,2002-07-24 00:00:00,Ryder Street @ Middle,Marine,Enterococci,6,no
+242,Provincetown,001,Barnstable,2002,2002-08-13 00:00:00,Ryder Street @ Right,Marine,Enterococci,2,no
+242,Provincetown,001,Barnstable,2002,2002-07-30 00:00:00,Ryder Street @ Right,Marine,Enterococci,60,no
+242,Provincetown,001,Barnstable,2002,2002-07-30 00:00:00,Ryder Street @ Middle,Marine,Enterococci,48,no
+242,Provincetown,001,Barnstable,2002,2002-07-30 00:00:00,Ryder Street @ Left,Marine,Enterococci,74,no
+126,Harwich,001,Barnstable,2002,2002-06-16 00:00:00,Sand Pond,Fresh,E. Coli,4,no
+126,Harwich,001,Barnstable,2002,2002-06-16 00:00:00,Seymour Pond,Fresh,E. Coli,2,no
+041,Brewster,001,Barnstable,2002,2002-06-10 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-18 00:00:00,Sheep Pond Landing,Fresh,E. Coli,16,no
+041,Brewster,001,Barnstable,2002,2002-06-06 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-29 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-05-28 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-27 00:00:00,Sheep Pond Landing,Fresh,E. Coli,92,no
+041,Brewster,001,Barnstable,2002,2002-06-20 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-15 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-08 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-05 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-31 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-24 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-18 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-19 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-03 00:00:00,Sheep Pond Landing,Fresh,E. Coli,12,no
+041,Brewster,001,Barnstable,2002,2002-06-13 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-22 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-02 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-22 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-12 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-11 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-16 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-25 00:00:00,Sheep Pond Landing,Fresh,E. Coli,8,no
+041,Brewster,001,Barnstable,2002,2002-08-01 00:00:00,Sheep Pond Landing,Fresh,E. Coli,4,no
+126,Harwich,001,Barnstable,2002,2002-06-16 00:00:00,Skinequit Pond,Fresh,E. Coli,12,no
+041,Brewster,001,Barnstable,2002,2002-06-18 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-31 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-20 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-27 00:00:00,Slough Pond,Fresh,E. Coli,8,no
+041,Brewster,001,Barnstable,2002,2002-08-12 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-03 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-25 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-15 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-10 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-19 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-06-24 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-01 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-08 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-05-28 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-05 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-16 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-18 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-11 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-29 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-22 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-07-02 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+041,Brewster,001,Barnstable,2002,2002-08-22 00:00:00,Slough Pond,Fresh,E. Coli,4,no
+022,Becket,003,Berkshire,2002,2002-09-03 00:00:00,Indian Lake Assoc - Dam Beach @ Location 2,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-07-11 00:00:00,Indian Lake Assoc - Dam Beach @ Location 2,Fresh,E. Coli,30,no
+022,Becket,003,Berkshire,2002,2002-07-15 00:00:00,Indian Lake Assoc - Dam Beach @ Location 2,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-07-01 00:00:00,Indian Lake Assoc - Dam Beach @ Location 1,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-08-06 00:00:00,Indian Lake Assoc - Dam Beach @ Location 2,Fresh,E. Coli,50,no
+022,Becket,003,Berkshire,2002,2002-06-17 00:00:00,Indian Lake Assoc - Dam Beach @ Location 1,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-07-31 00:00:00,Indian Lake Assoc - Dam Beach @ Location 2,Fresh,E. Coli,50,no
+022,Becket,003,Berkshire,2002,2002-06-21 00:00:00,Indian Lake Assoc - Dam Beach @ Location 1,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-06-03 00:00:00,Indian Lake Assoc - Dam Beach @ Location 1,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-05-22 00:00:00,Indian Lake Assoc - Dam Beach @ Location 1,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-08-12 00:00:00,Indian Lake Assoc - Dam Beach @ Location 2,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-07-25 00:00:00,Indian Lake Assoc - Dam Beach @ Location 2,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-06-24 00:00:00,Indian Lake Assoc - Dam Beach @ Location 1,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-05-28 00:00:00,Indian Lake Assoc - Dam Beach @ Location 1,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-08-28 00:00:00,Indian Lake Assoc - Dam Beach @ Location 2,Fresh,E. Coli,10,no
+022,Becket,003,Berkshire,2002,2002-08-22 00:00:00,Indian Lake Assoc - Dam Beach @ Location 2,Fresh,E. Coli,10,no
+283,Stockbridge,003,Berkshire,2002,2002-08-21 00:00:00,White Pines Condos (Stockbridge Bowl),Fresh,E. Coli,100,no
+283,Stockbridge,003,Berkshire,2002,2002-08-26 00:00:00,White Pines Condos (Stockbridge Bowl),Fresh,E. Coli,10,no
+327,West Tisbury,007,Dukes,2002,2002-07-30 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,12,no
+327,West Tisbury,007,Dukes,2002,2002-06-25 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,6,no
+327,West Tisbury,007,Dukes,2002,2002-05-14 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,12,no
+327,West Tisbury,007,Dukes,2002,2002-07-23 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,6,no
+327,West Tisbury,007,Dukes,2002,2002-08-07 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,2,no
+327,West Tisbury,007,Dukes,2002,2002-07-16 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,4,no
+327,West Tisbury,007,Dukes,2002,2002-09-03 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,84,yes
+327,West Tisbury,007,Dukes,2002,2002-06-18 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,4,no
+327,West Tisbury,007,Dukes,2002,2002-07-09 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,2,no
+327,West Tisbury,007,Dukes,2002,2002-08-20 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,8,no
+327,West Tisbury,007,Dukes,2002,2002-08-27 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,2,no
+327,West Tisbury,007,Dukes,2002,2002-06-11 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,32,no
+327,West Tisbury,007,Dukes,2002,2002-06-04 00:00:00,Seth's Pond @ Town Beach,Fresh,Enterococci,2,no
+327,West Tisbury,007,Dukes,2002,2002-08-20 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,8,no
+327,West Tisbury,007,Dukes,2002,2002-07-23 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,2,no
+327,West Tisbury,007,Dukes,2002,2002-06-25 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,6,no
+327,West Tisbury,007,Dukes,2002,2002-05-14 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,8,no
+327,West Tisbury,007,Dukes,2002,2002-06-18 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,2,no
+327,West Tisbury,007,Dukes,2002,2002-07-30 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,4,no
+327,West Tisbury,007,Dukes,2002,2002-06-11 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,6,no
+327,West Tisbury,007,Dukes,2002,2002-08-27 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,12,no
+327,West Tisbury,007,Dukes,2002,2002-09-03 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,68,yes
+327,West Tisbury,007,Dukes,2002,2002-07-02 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,2,no
+327,West Tisbury,007,Dukes,2002,2002-07-16 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,2,no
+327,West Tisbury,007,Dukes,2002,2002-07-09 00:00:00,Seth's Pond Cove (environmental sample),Fresh,Enterococci,2,no
+009,Andover,009,Essex,2002,2002-08-12 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,10,no
+009,Andover,009,Essex,2002,2002-06-10 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,15,no
+009,Andover,009,Essex,2002,2002-07-15 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,30,no
+009,Andover,009,Essex,2002,2002-08-12 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,2,no
+009,Andover,009,Essex,2002,2002-06-26 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,8,no
+009,Andover,009,Essex,2002,2002-07-08 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,4,no
+009,Andover,009,Essex,2002,2002-08-05 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,4,no
+009,Andover,009,Essex,2002,2002-07-29 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,304,yes
+009,Andover,009,Essex,2002,2002-07-31 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,32,no
+009,Andover,009,Essex,2002,2002-07-15 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,12,no
+009,Andover,009,Essex,2002,2002-06-26 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,4,no
+009,Andover,009,Essex,2002,2002-07-22 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,2,no
+009,Andover,009,Essex,2002,2002-07-08 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,4,no
+009,Andover,009,Essex,2002,2002-07-29 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,60,no
+009,Andover,009,Essex,2002,2002-08-05 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,4,no
+009,Andover,009,Essex,2002,2002-06-10 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,10,no
+009,Andover,009,Essex,2002,2002-07-01 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,6,no
+009,Andover,009,Essex,2002,2002-06-24 00:00:00,Pomps Pond @ Right,Fresh,E. Coli,5,no
+009,Andover,009,Essex,2002,2002-07-01 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,6,no
+009,Andover,009,Essex,2002,2002-07-22 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,8,no
+009,Andover,009,Essex,2002,2002-07-31 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,192,no
+009,Andover,009,Essex,2002,2002-07-30 00:00:00,Pomps Pond @ Left,Fresh,E. Coli,44,no
+253,Rowe,011,Franklin,2002,2002-07-09 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,10,no
+253,Rowe,011,Franklin,2002,2002-06-17 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,50,no
+253,Rowe,011,Franklin,2002,2002-07-17 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,80,no
+253,Rowe,011,Franklin,2002,2002-08-02 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,150,no
+253,Rowe,011,Franklin,2002,2002-07-24 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,80,no
+253,Rowe,011,Franklin,2002,2002-05-28 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,30,no
+253,Rowe,011,Franklin,2002,2002-08-26 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,10,no
+253,Rowe,011,Franklin,2002,2002-08-21 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,10,no
+253,Rowe,011,Franklin,2002,2002-08-12 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,220,no
+253,Rowe,011,Franklin,2002,2002-07-29 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,230,no
+253,Rowe,011,Franklin,2002,2002-06-05 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,10,no
+253,Rowe,011,Franklin,2002,2002-05-20 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,10,no
+253,Rowe,011,Franklin,2002,2002-07-03 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,10,no
+253,Rowe,011,Franklin,2002,2002-06-24 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,30,no
+253,Rowe,011,Franklin,2002,2002-09-04 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,10,no
+253,Rowe,011,Franklin,2002,2002-06-11 00:00:00,Rowe Town Beach at Pelham Park @ Right,Fresh,E. Coli,10,no
+056,Chelmsford,017,Middlesex,2002,2002-06-26 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,600,yes
+056,Chelmsford,017,Middlesex,2002,2002-07-01 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,40,no
+056,Chelmsford,017,Middlesex,2002,2002-08-23 00:00:00,Freeman Lake @ South,Fresh,E. Coli,550,yes
+056,Chelmsford,017,Middlesex,2002,2002-07-22 00:00:00,Freeman Lake @ South,Fresh,E. Coli,170,no
+056,Chelmsford,017,Middlesex,2002,2002-07-01 00:00:00,Freeman Lake @ South,Fresh,E. Coli,50,no
+056,Chelmsford,017,Middlesex,2002,2002-08-13 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,370,yes
+056,Chelmsford,017,Middlesex,2002,2002-08-19 00:00:00,Freeman Lake @ South,Fresh,E. Coli,48,no
+056,Chelmsford,017,Middlesex,2002,2002-08-19 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,100,no
+056,Chelmsford,017,Middlesex,2002,2002-06-26 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,80,no
+056,Chelmsford,017,Middlesex,2002,2002-08-23 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,360,yes
+056,Chelmsford,017,Middlesex,2002,2002-07-09 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,124,no
+056,Chelmsford,017,Middlesex,2002,2002-07-09 00:00:00,Freeman Lake @ South,Fresh,E. Coli,36,no
+056,Chelmsford,017,Middlesex,2002,2002-07-30 00:00:00,Freeman Lake @ South,Fresh,E. Coli,92,no
+056,Chelmsford,017,Middlesex,2002,2002-07-30 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,50,no
+056,Chelmsford,017,Middlesex,2002,2002-08-13 00:00:00,Freeman Lake @ South,Fresh,E. Coli,80,no
+056,Chelmsford,017,Middlesex,2002,2002-07-22 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,136,no
+056,Chelmsford,017,Middlesex,2002,2002-07-16 00:00:00,Freeman Lake @ South,Fresh,E. Coli,18,no
+056,Chelmsford,017,Middlesex,2002,2002-07-16 00:00:00,Freeman Lake @ Middle,Fresh,E. Coli,26,no
+056,Chelmsford,017,Middlesex,2002,2002-07-09 00:00:00,Heart Pond,Fresh,E. Coli,8,no
+056,Chelmsford,017,Middlesex,2002,2002-07-22 00:00:00,Heart Pond,Fresh,E. Coli,2,no
+056,Chelmsford,017,Middlesex,2002,2002-07-30 00:00:00,Heart Pond,Fresh,E. Coli,4,no
+056,Chelmsford,017,Middlesex,2002,2002-08-13 00:00:00,Heart Pond,Fresh,E. Coli,12,no
+056,Chelmsford,017,Middlesex,2002,2002-07-01 00:00:00,Heart Pond,Fresh,E. Coli,20,no
+056,Chelmsford,017,Middlesex,2002,2002-08-19 00:00:00,Heart Pond,Fresh,E. Coli,66,no
+056,Chelmsford,017,Middlesex,2002,2002-07-01 00:00:00,Heart Pond,Fresh,E. Coli,8,no
+056,Chelmsford,017,Middlesex,2002,2002-07-16 00:00:00,Heart Pond,Fresh,E. Coli,2,no
+056,Chelmsford,017,Middlesex,2002,2002-08-19 00:00:00,Heart Pond,Fresh,E. Coli,170,no
+056,Chelmsford,017,Middlesex,2002,2002-06-26 00:00:00,Heart Pond,Fresh,E. Coli,2,no
+056,Chelmsford,017,Middlesex,2002,2002-07-25 00:00:00,Heart Pond,Fresh,E. Coli,14,no
+056,Chelmsford,017,Middlesex,2002,2002-07-22 00:00:00,Heart Pond,Fresh,E. Coli,600,yes
+056,Chelmsford,017,Middlesex,2002,2002-07-30 00:00:00,Heart Pond,Fresh,E. Coli,10,no
+056,Chelmsford,017,Middlesex,2002,2002-08-13 00:00:00,Heart Pond,Fresh,E. Coli,10,no
+170,Marlborough,017,Middlesex,2002,2002-06-24 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,15,no
+170,Marlborough,017,Middlesex,2002,2002-07-08 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,10,no
+170,Marlborough,017,Middlesex,2002,2002-08-19 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,20,no
+170,Marlborough,017,Middlesex,2002,2002-08-26 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,40,no
+170,Marlborough,017,Middlesex,2002,2002-06-24 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-08-12 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-07-01 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,50,no
+170,Marlborough,017,Middlesex,2002,2002-07-22 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-07-01 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,10,no
+170,Marlborough,017,Middlesex,2002,2002-08-19 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-08-26 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,15,no
+170,Marlborough,017,Middlesex,2002,2002-08-19 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-08-12 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-08-05 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,60,no
+170,Marlborough,017,Middlesex,2002,2002-07-29 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,14,no
+170,Marlborough,017,Middlesex,2002,2002-07-29 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,10,no
+170,Marlborough,017,Middlesex,2002,2002-07-22 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-07-01 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-06-24 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-08-12 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,10,no
+170,Marlborough,017,Middlesex,2002,2002-08-05 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,20,no
+170,Marlborough,017,Middlesex,2002,2002-07-08 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-07-15 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-08-05 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,55,no
+170,Marlborough,017,Middlesex,2002,2002-07-15 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-08-26 00:00:00,Memorial Beach @ Left,Fresh,E. Coli,35,no
+170,Marlborough,017,Middlesex,2002,2002-07-15 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-07-22 00:00:00,Memorial Beach @ Right,Fresh,E. Coli,5,no
+170,Marlborough,017,Middlesex,2002,2002-07-29 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,10,no
+170,Marlborough,017,Middlesex,2002,2002-07-08 00:00:00,Memorial Beach @ Middle,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-07-08 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-06-10 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,10,no
+198,Natick,017,Middlesex,2002,2002-08-19 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-08-05 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-07-01 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,25,no
+198,Natick,017,Middlesex,2002,2002-06-24 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-08-19 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-07-29 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,136,no
+198,Natick,017,Middlesex,2002,2002-06-03 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,10,no
+198,Natick,017,Middlesex,2002,2002-08-12 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,25,no
+198,Natick,017,Middlesex,2002,2002-08-05 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,88,no
+198,Natick,017,Middlesex,2002,2002-07-29 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,68,no
+198,Natick,017,Middlesex,2002,2002-07-15 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-06-17 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-06-10 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,10,no
+198,Natick,017,Middlesex,2002,2002-07-22 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-07-22 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,35,no
+198,Natick,017,Middlesex,2002,2002-08-26 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,45,no
+198,Natick,017,Middlesex,2002,2002-06-17 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-08-12 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-07-25 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,168,no
+198,Natick,017,Middlesex,2002,2002-07-15 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-07-08 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-07-01 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-06-24 00:00:00,Memorial Beach (Dug Pond) @ Wading,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-06-03 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,5,no
+198,Natick,017,Middlesex,2002,2002-08-26 00:00:00,Memorial Beach (Dug Pond) @ Dock,Fresh,E. Coli,135,no
+031,Billerica,017,Middlesex,2002,2002-06-19 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,8,no
+031,Billerica,017,Middlesex,2002,2002-07-03 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,20,no
+031,Billerica,017,Middlesex,2002,2002-08-14 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,20,no
+031,Billerica,017,Middlesex,2002,2002-08-01 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,10,no
+031,Billerica,017,Middlesex,2002,2002-07-01 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,40,no
+031,Billerica,017,Middlesex,2002,2002-08-21 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,142,no
+031,Billerica,017,Middlesex,2002,2002-07-10 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,140,no
+031,Billerica,017,Middlesex,2002,2002-06-26 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,152,no
+031,Billerica,017,Middlesex,2002,2002-06-24 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,49,no
+031,Billerica,017,Middlesex,2002,2002-06-19 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,87,no
+031,Billerica,017,Middlesex,2002,2002-08-26 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,152,no
+031,Billerica,017,Middlesex,2002,2002-08-26 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,228,no
+031,Billerica,017,Middlesex,2002,2002-07-01 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,250,yes
+031,Billerica,017,Middlesex,2002,2002-06-11 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,16,no
+031,Billerica,017,Middlesex,2002,2002-08-21 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,96,no
+031,Billerica,017,Middlesex,2002,2002-08-05 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,80,no
+031,Billerica,017,Middlesex,2002,2002-07-22 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,30,no
+031,Billerica,017,Middlesex,2002,2002-06-11 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,62,no
+031,Billerica,017,Middlesex,2002,2002-07-22 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,260,yes
+031,Billerica,017,Middlesex,2002,2002-07-17 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,190,no
+031,Billerica,017,Middlesex,2002,2002-07-11 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,60,no
+031,Billerica,017,Middlesex,2002,2002-07-11 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,80,no
+031,Billerica,017,Middlesex,2002,2002-07-08 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,90,no
+031,Billerica,017,Middlesex,2002,2002-08-05 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,1,no
+031,Billerica,017,Middlesex,2002,2002-07-24 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,130,no
+031,Billerica,017,Middlesex,2002,2002-07-15 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,70,no
+031,Billerica,017,Middlesex,2002,2002-07-15 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,310,yes
+031,Billerica,017,Middlesex,2002,2002-07-08 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,250,yes
+031,Billerica,017,Middlesex,2002,2002-07-03 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,40,no
+031,Billerica,017,Middlesex,2002,2002-08-01 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,510,yes
+031,Billerica,017,Middlesex,2002,2002-07-24 00:00:00,Nutting Lake - Micozzi Beach @ North,Fresh,E. Coli,230,no
+031,Billerica,017,Middlesex,2002,2002-07-17 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,80,no
+031,Billerica,017,Middlesex,2002,2002-07-10 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,20,no
+031,Billerica,017,Middlesex,2002,2002-08-14 00:00:00,Nutting Lake - Micozzi Beach @ South,Fresh,E. Coli,72,no
+139,Hopkinton,017,Middlesex,2002,2002-08-05 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-06-17 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,170,no
+139,Hopkinton,017,Middlesex,2002,2002-07-01 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,20,no
+139,Hopkinton,017,Middlesex,2002,2002-06-10 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-05 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-15 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-06-10 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-26 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-01 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-12 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-22 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,80,no
+139,Hopkinton,017,Middlesex,2002,2002-07-09 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-01 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-29 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-29 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-22 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,60,no
+139,Hopkinton,017,Middlesex,2002,2002-06-17 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,110,no
+139,Hopkinton,017,Middlesex,2002,2002-08-26 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-26 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-19 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-19 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-12 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-15 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-15 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-19 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-12 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,20,no
+139,Hopkinton,017,Middlesex,2002,2002-07-22 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,50,no
+139,Hopkinton,017,Middlesex,2002,2002-06-10 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-08-05 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-29 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-07-09 00:00:00,Sandy Beach @ Right,Fresh,E. Coli,10,no
+139,Hopkinton,017,Middlesex,2002,2002-06-24 00:00:00,Sandy Beach @ Middle,Fresh,E. Coli,30,no
+139,Hopkinton,017,Middlesex,2002,2002-06-17 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,100,no
+139,Hopkinton,017,Middlesex,2002,2002-07-09 00:00:00,Sandy Beach @ Left,Fresh,E. Coli,10,no
+315,Wayland,017,Middlesex,2002,2002-07-29 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,10,no
+315,Wayland,017,Middlesex,2002,2002-06-11 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,10,no
+315,Wayland,017,Middlesex,2002,2002-07-01 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-06-18 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-06-18 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-06-18 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-05-23 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,24,no
+315,Wayland,017,Middlesex,2002,2002-08-12 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-08-05 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-07-08 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,45,no
+315,Wayland,017,Middlesex,2002,2002-05-31 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,4,no
+315,Wayland,017,Middlesex,2002,2002-07-29 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,120,no
+315,Wayland,017,Middlesex,2002,2002-06-24 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-07-01 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-07-01 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-06-24 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-06-11 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,10,no
+315,Wayland,017,Middlesex,2002,2002-06-07 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,144,no
+315,Wayland,017,Middlesex,2002,2002-05-23 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,2,no
+315,Wayland,017,Middlesex,2002,2002-07-22 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-07-08 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-06-07 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,230,no
+315,Wayland,017,Middlesex,2002,2002-05-31 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,6,no
+315,Wayland,017,Middlesex,2002,2002-08-05 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-06-24 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-06-11 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,10,no
+315,Wayland,017,Middlesex,2002,2002-05-31 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,4,no
+315,Wayland,017,Middlesex,2002,2002-08-12 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-05-23 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,2,no
+315,Wayland,017,Middlesex,2002,2002-07-08 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-06-07 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,220,no
+315,Wayland,017,Middlesex,2002,2002-08-12 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-08-05 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-07-29 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-07-22 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,50,no
+315,Wayland,017,Middlesex,2002,2002-07-22 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-07-15 00:00:00,Wayland Town Beach @ Middle (retired),Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-07-15 00:00:00,Wayland Town Beach @ Right,Fresh,E. Coli,5,no
+315,Wayland,017,Middlesex,2002,2002-07-15 00:00:00,Wayland Town Beach @ Left,Fresh,E. Coli,5,no
+344,Winchester,017,Middlesex,2002,2002-08-19 00:00:00,Wedge Pond @ South,Fresh,E. Coli,30,no
+344,Winchester,017,Middlesex,2002,2002-08-15 00:00:00,Wedge Pond @ South,Fresh,E. Coli,150,no
+243,Quincy,021,Norfolk,2002,2002-06-21 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,8,no
+243,Quincy,021,Norfolk,2002,2002-07-18 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,52,no
+243,Quincy,021,Norfolk,2002,2002-06-23 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,16,no
+243,Quincy,021,Norfolk,2002,2002-05-30 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,16,no
+243,Quincy,021,Norfolk,2002,2002-08-02 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,18,no
+243,Quincy,021,Norfolk,2002,2002-06-27 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,26,no
+243,Quincy,021,Norfolk,2002,2002-08-01 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,24,no
+243,Quincy,021,Norfolk,2002,2002-09-12 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,68,no
+243,Quincy,021,Norfolk,2002,2002-09-05 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,230,yes
+243,Quincy,021,Norfolk,2002,2002-06-06 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,36,no
+243,Quincy,021,Norfolk,2002,2002-08-24 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,4,no
+243,Quincy,021,Norfolk,2002,2002-08-23 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,154,yes
+243,Quincy,021,Norfolk,2002,2002-08-22 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-05-23 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-08-16 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-08-09 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,28,no
+243,Quincy,021,Norfolk,2002,2002-09-07 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,122,yes
+243,Quincy,021,Norfolk,2002,2002-07-12 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,44,no
+243,Quincy,021,Norfolk,2002,2002-06-20 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,14,no
+243,Quincy,021,Norfolk,2002,2002-06-13 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,86,no
+243,Quincy,021,Norfolk,2002,2002-08-30 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,2500,yes
+243,Quincy,021,Norfolk,2002,2002-08-29 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,36,no
+243,Quincy,021,Norfolk,2002,2002-07-26 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,62,no
+243,Quincy,021,Norfolk,2002,2002-07-25 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,22,no
+243,Quincy,021,Norfolk,2002,2002-07-19 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,1100,yes
+243,Quincy,021,Norfolk,2002,2002-08-06 00:00:00,Wollaston @ Channing Street (DCR),Marine,Enterococci,40,no
+243,Quincy,021,Norfolk,2002,2002-06-21 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,10,no
+243,Quincy,021,Norfolk,2002,2002-06-20 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-07-26 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,10,no
+243,Quincy,021,Norfolk,2002,2002-07-25 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,24,no
+243,Quincy,021,Norfolk,2002,2002-06-06 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,50,no
+243,Quincy,021,Norfolk,2002,2002-07-18 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,4,no
+243,Quincy,021,Norfolk,2002,2002-06-23 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,72,no
+243,Quincy,021,Norfolk,2002,2002-08-16 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-09-19 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,84,no
+243,Quincy,021,Norfolk,2002,2002-06-13 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,72,no
+243,Quincy,021,Norfolk,2002,2002-06-27 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,10,no
+243,Quincy,021,Norfolk,2002,2002-08-24 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,40,no
+243,Quincy,021,Norfolk,2002,2002-08-09 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-07-19 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,810,yes
+243,Quincy,021,Norfolk,2002,2002-09-07 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,14,no
+243,Quincy,021,Norfolk,2002,2002-09-05 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,76,no
+243,Quincy,021,Norfolk,2002,2002-08-30 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,1200,yes
+243,Quincy,021,Norfolk,2002,2002-08-23 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,162,yes
+243,Quincy,021,Norfolk,2002,2002-08-06 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-05-30 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-07-12 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,12,no
+243,Quincy,021,Norfolk,2002,2002-09-12 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,66,no
+243,Quincy,021,Norfolk,2002,2002-08-29 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,100,no
+243,Quincy,021,Norfolk,2002,2002-08-22 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-08-02 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,48,no
+243,Quincy,021,Norfolk,2002,2002-08-01 00:00:00,Wollaston @ Milton Street (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-06-27 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,4,no
+243,Quincy,021,Norfolk,2002,2002-08-01 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,6,no
+243,Quincy,021,Norfolk,2002,2002-06-13 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,74,no
+243,Quincy,021,Norfolk,2002,2002-08-02 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,8,no
+243,Quincy,021,Norfolk,2002,2002-06-06 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,10,no
+243,Quincy,021,Norfolk,2002,2002-08-16 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-07-25 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-08-24 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,6,no
+243,Quincy,021,Norfolk,2002,2002-07-26 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,4,no
+243,Quincy,021,Norfolk,2002,2002-07-12 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,4,no
+243,Quincy,021,Norfolk,2002,2002-08-06 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,10,no
+243,Quincy,021,Norfolk,2002,2002-06-21 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-07-19 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,30,no
+243,Quincy,021,Norfolk,2002,2002-09-07 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,4,no
+243,Quincy,021,Norfolk,2002,2002-08-22 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-06-20 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,36,no
+243,Quincy,021,Norfolk,2002,2002-08-30 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,1410,yes
+243,Quincy,021,Norfolk,2002,2002-08-29 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,26,no
+243,Quincy,021,Norfolk,2002,2002-08-09 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,2,no
+243,Quincy,021,Norfolk,2002,2002-07-18 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,44,no
+243,Quincy,021,Norfolk,2002,2002-09-12 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,60,no
+243,Quincy,021,Norfolk,2002,2002-08-23 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,64,no
+243,Quincy,021,Norfolk,2002,2002-09-05 00:00:00,Wollaston @ Rice Road (DCR),Marine,Enterococci,104,no
+140,Hubbardston,027,Worcester,2002,2002-07-17 00:00:00,Asnacomet Pond Beach (DCR) @ Right,Fresh,E. Coli,1,no
+140,Hubbardston,027,Worcester,2002,2002-06-27 00:00:00,Asnacomet Pond Beach (DCR) @ Left,Fresh,E. Coli,1,no
+140,Hubbardston,027,Worcester,2002,2002-07-24 00:00:00,Asnacomet Pond Beach (DCR) @ Middle,Fresh,E. Coli,2,no
+140,Hubbardston,027,Worcester,2002,2002-07-24 00:00:00,Asnacomet Pond Beach (DCR) @ Right,Fresh,E. Coli,4,no
+140,Hubbardston,027,Worcester,2002,2002-08-07 00:00:00,Asnacomet Pond Beach (DCR) @ Middle,Fresh,E. Coli,2,no
+140,Hubbardston,027,Worcester,2002,2002-08-14 00:00:00,Asnacomet Pond Beach (DCR) @ Middle,Fresh,E. Coli,1,no
+140,Hubbardston,027,Worcester,2002,2002-08-14 00:00:00,Asnacomet Pond Beach (DCR) @ Right,Fresh,E. Coli,1,no
+140,Hubbardston,027,Worcester,2002,2002-06-27 00:00:00,Asnacomet Pond Beach (DCR) @ Middle,Fresh,E. Coli,1,no
+140,Hubbardston,027,Worcester,2002,2002-07-03 00:00:00,Asnacomet Pond Beach (DCR) @ Right,Fresh,E. Coli,5,no
+140,Hubbardston,027,Worcester,2002,2002-07-31 00:00:00,Asnacomet Pond Beach (DCR) @ Right,Fresh,E. Coli,2,no
+140,Hubbardston,027,Worcester,2002,2002-07-17 00:00:00,Asnacomet Pond Beach (DCR) @ Left,Fresh,E. Coli,1,no
+140,Hubbardston,027,Worcester,2002,2002-07-03 00:00:00,Asnacomet Pond Beach (DCR) @ Left,Fresh,E. Coli,1,no
+140,Hubbardston,027,Worcester,2002,2002-07-24 00:00:00,Asnacomet Pond Beach (DCR) @ Left,Fresh,E. Coli,4,no
+140,Hubbardston,027,Worcester,2002,2002-07-31 00:00:00,Asnacomet Pond Beach (DCR) @ Left,Fresh,E. Coli,1,no
+348,Worcester,027,Worcester,2002,2002-05-21 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,2,no
+348,Worcester,027,Worcester,2002,2002-06-04 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,2,no
+348,Worcester,027,Worcester,2002,2002-06-11 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,4,no
+348,Worcester,027,Worcester,2002,2002-07-09 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,12,no
+348,Worcester,027,Worcester,2002,2002-06-25 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,22,no
+348,Worcester,027,Worcester,2002,2002-07-02 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,16,no
+348,Worcester,027,Worcester,2002,2002-08-06 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,4,no
+348,Worcester,027,Worcester,2002,2002-06-18 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,10,no
+348,Worcester,027,Worcester,2002,2002-05-29 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,2,no
+348,Worcester,027,Worcester,2002,2002-07-23 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,6,no
+348,Worcester,027,Worcester,2002,2002-07-30 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,20,no
+348,Worcester,027,Worcester,2002,2002-07-16 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,2,no
+348,Worcester,027,Worcester,2002,2002-08-27 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,6,no
+348,Worcester,027,Worcester,2002,2002-08-13 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,6,no
+348,Worcester,027,Worcester,2002,2002-08-20 00:00:00,Lake Quinsigamond-Lake Park Beach (DCR),Fresh,Enterococci,6,no
+348,Worcester,027,Worcester,2002,2002-08-13 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,4,no
+348,Worcester,027,Worcester,2002,2002-07-30 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,34,no
+348,Worcester,027,Worcester,2002,2002-05-21 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,46,no
+348,Worcester,027,Worcester,2002,2002-08-08 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,4,no
+348,Worcester,027,Worcester,2002,2002-07-23 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,10,no
+348,Worcester,027,Worcester,2002,2002-06-11 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,12,no
+348,Worcester,027,Worcester,2002,2002-05-29 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,108,yes
+348,Worcester,027,Worcester,2002,2002-06-25 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,32,no
+348,Worcester,027,Worcester,2002,2002-08-06 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,246,yes
+348,Worcester,027,Worcester,2002,2002-05-31 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,14,no
+348,Worcester,027,Worcester,2002,2002-08-27 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,170,yes
+348,Worcester,027,Worcester,2002,2002-06-04 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,2,no
+348,Worcester,027,Worcester,2002,2002-07-09 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,10,no
+348,Worcester,027,Worcester,2002,2002-06-18 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,16,no
+348,Worcester,027,Worcester,2002,2002-07-02 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,8,no
+348,Worcester,027,Worcester,2002,2002-07-16 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,4,no
+348,Worcester,027,Worcester,2002,2002-08-20 00:00:00,Lake Quinsigamond-Regatta Point Beach (DCR),Fresh,Enterococci,2,no
+271,Shrewsbury,027,Worcester,2002,2002-08-27 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-06-26 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-07-10 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-08-21 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-08-15 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-08-07 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-07-23 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-07-02 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-06-18 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-08-01 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+271,Shrewsbury,027,Worcester,2002,2002-07-17 00:00:00,Sunset Beach,Fresh,E. Coli,50,no
+255,Royalston,027,Worcester,2002,2002-09-04 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+255,Royalston,027,Worcester,2002,2002-07-23 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+255,Royalston,027,Worcester,2002,2002-05-21 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+255,Royalston,027,Worcester,2002,2002-07-01 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,30,no
+255,Royalston,027,Worcester,2002,2002-07-17 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+255,Royalston,027,Worcester,2002,2002-08-19 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+255,Royalston,027,Worcester,2002,2002-06-18 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,60,no
+255,Royalston,027,Worcester,2002,2002-08-13 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+255,Royalston,027,Worcester,2002,2002-06-04 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+255,Royalston,027,Worcester,2002,2002-06-12 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+255,Royalston,027,Worcester,2002,2002-07-10 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+255,Royalston,027,Worcester,2002,2002-08-05 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,20,no
+255,Royalston,027,Worcester,2002,2002-05-29 00:00:00,Tully Lake Campground (USACE),Fresh,E. Coli,10,no
+077,Douglas,027,Worcester,2002,2002-07-23 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,2,no
+077,Douglas,027,Worcester,2002,2002-07-10 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,10,no
+077,Douglas,027,Worcester,2002,2002-07-16 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,2,no
+077,Douglas,027,Worcester,2002,2002-08-21 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,13,no
+077,Douglas,027,Worcester,2002,2002-07-30 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,20,no
+077,Douglas,027,Worcester,2002,2002-06-14 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,10,no
+077,Douglas,027,Worcester,2002,2002-08-06 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,45,no
+077,Douglas,027,Worcester,2002,2002-08-27 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,2,no
+077,Douglas,027,Worcester,2002,2002-06-20 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,10,no
+077,Douglas,027,Worcester,2002,2002-08-13 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,2,no
+077,Douglas,027,Worcester,2002,2002-07-02 00:00:00,Wallum Lake Terrace,Fresh,E. Coli,30,no

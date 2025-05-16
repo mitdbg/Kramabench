@@ -1,0 +1,10 @@
+[
+    {
+        "name": "answer",
+        "prompt": "Please format the response in the following JSON format. {\"answer\": <your answer>}"
+    },
+    {
+        "name": "code",
+        "prompt": "PLease format the response in the following JSON format. {\"code\": <your code>, \"language\": <your language of choice>}"
+    }
+]

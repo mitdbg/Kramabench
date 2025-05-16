@@ -1,0 +1,9 @@
+{
+    "id": "environment-easy-1",
+    "query": "How many bacterial exceedances are sampled?",
+    "answer": 7641,
+    "answer_type": "exact",
+    "data_sources": [
+        "water-body-testing-2018.csv"
+    ]
+}

@@ -1,0 +1,16 @@
+
+
+Sources:
+    National Interagency Coordination Center yearly reports 
+    https://www.nifc.gov/sites/default/files/NICC/2-Predictive%20Services/Intelligence/Annual%20Reports/2024/annual_report_2024.pdf
+
+    National Center for Environmental Information monthly/yearly reports 
+    https://www.ncei.noaa.gov/access/monitoring/monthly-report/fire
+
+Data links:
+
+    https://www.fs.usda.gov/rds/archive/Catalog/RDS-2021-0100
+    Description: dataset of fire incidents 2002-2016
+
+    https://www.ncei.noaa.gov/access/monitoring/wildfires/
+    Description: online dashboard downloadable as CSV/JSON

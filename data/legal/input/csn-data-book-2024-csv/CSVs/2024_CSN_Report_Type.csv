@@ -1,0 +1,46 @@
+Report Type,,,,,
+,,,,,
+Report Type,# of Reports,,,,
+Fraud,"2,600,678",40.2% of total reports,,,
+Identity Theft,"1,135,291",17.5% of total reports,,,
+Other,"2,759,963",42.6% of total reports,,,
+,,,,,
+Top 10 Categories,,,,,
+Rank,Category, # of Reports  ,% Reporting $ Loss, Total $ Loss , Median $ Loss 
+1,Imposter Scams,"845,806",22%,"$2,952M",$800 
+2,Online Shopping and Negative Reviews,"383,441",76%,$432M,$130 
+3,Business and Job Opportunities,"126,217",36%,$751M,"$2,250 "
+4,Investment Related,"118,960",79%,"$5,697M","$9,196 "
+5,Internet Services,"118,261",28%,$164M,$300 
+6,"Prizes, Sweepstakes and Lotteries","97,350",22%,$351M,"$1,000 "
+7,Telephone and Mobile Services,"92,520",39%,$56M,$240 
+8,Health Care,"78,763",51%,$80M,$283 
+9,"Travel, Vacations and Timeshare Plans","58,347",67%,$274M,$922 
+10,Mortgage Foreclosure Relief and Debt Management,"34,159",21%,$82M,"$1,500 "
+,,,,,
+Identity Theft Types,,,,,
+Rank, Theft Type , # of Reports ,,,
+1,Credit Card,"449,032",,,
+2,Other Identity Theft,"358,993",,,
+3,Loan or Lease,"176,400",,,
+4,Bank Account,"114,608",,,
+5,Employment or Tax-Related,"87,470",,,
+6,Phone or Utilities,"82,626",,,
+7,Government Documents or Benefits,"70,332",,,
+,,,,,
+Top 10 Other Categories,,,,,
+Rank,Category,# of Reports ,,,
+1,Credit Bureaus and Information Furnishers,"1,353,175",,,
+2,Banks and Lenders,"351,543",,,
+3,Debt Collection,"218,736",,,
+4,Auto Related,"197,015",,,
+5,Credit Cards,"126,368",,,
+6,"Home Improvement, Repair, and Solar","81,925",,,
+7,Television and Electronic Media,"33,360",,,
+8,Education,"25,813",,,
+9,Computer Equipment and Software,"24,311",,,
+10,"Privacy, Data Security, and Cyber Threats","21,601",,,
+,,,,,
+"Certain categories are comprised of subcategories that fall in both and Other report types. See Appendix B3. The rankings exclude subcategories that are not, and the Other rankings exclude subcategories that are classified as.",,,,,
+,,,,,
+"Source: Consumer Sentinel Network Data Book 2024, Federal Trade Commission",,,,,

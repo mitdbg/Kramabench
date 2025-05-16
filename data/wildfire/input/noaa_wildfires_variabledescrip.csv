@@ -1,0 +1,38 @@
+Variable Name ,"Young et al. 2020, Table 1",Alternative description
+start_year,Discovery Year,"Year wildfire incident is discovered, described as YYYY"
+region_ind,,Numeric value representing the region
+incident_number,,ICS-209 identifier (wildfire incident identifying number)
+avrh_mean,Average Relative Humidity,"Average (mean) Relative Humidity, a percentage defined as ""Daily average water vapor in the air relative to saturation"""
+wind_med,Wind,Daily average (median) wind speed within the wildfire incident area in miles per hour
+erc_med,Energy release component ,"Average (median) Energy Release Component (ERC) defined as ""BTUs / square foot released from a fire’s flaming front"""
+rain_sum,Precipitation,"Summary of daily precipitation, described as either total precipitation over the length of an individual wildfire incident or the total for all fires within a ""fire cluster"" for a fire year"
+region,Region,"Geographic region where the wildfire incident was discovered; dataset contains six regions total (California, Great Basin, Northwest, Inland Empire, Rocky Mountains, Southwest)"
+state,State,Standard two-letter representation of the U.S.A. state where a wildfire incident was discovered
+incident_name,Incident name,Unique alphabetic identifier for a wildfire incident
+cause,Cause ,"Declared cause of wildfire incident ignition; attribute contains several different causes which are grouped into ""human"" and ""non-human"" or ""natural"" (U=unknown, N=natural, H=human, L=lightning, O=other)"
+dominant_strategy_25_s,,"Wildfire with at least 25% suppression strategies = full suppression, otherwise = other"
+dominant_strategy_50_s,,"Wildfire with at least 50% suppression strategies = full suppression, otherwise = other"
+dominant_strategy_75_s,,"Wildfire with at least 75% suppression strategies = full suppression, otherwise = other"
+subdom_strategy,,"Dominant strategy listed in ICS-209 data (Combo, Confine, Full Suppression, Monitor, nonFS-Combo, Point Zone Protection)"
+start_date,Discovery Date,"Calendar date wildfire incident is discovered, described as MM/DD/YYYY C.E."
+controlled_date,Control Date,"Calendar date wildfire incident is declared ""controlled"" by incident command, described as MM/DD/YYYY C.E."
+duration,Duration,"Length of time, in days, from when wildfire incident is discovered (""start_date"") to when it is declared ""out"" by incident command"
+prim_threatened_aggregate,"Houses at risk, contributed to",Number of houses (primary residences) at risk because of or contributed to by a wildfire incident
+comm_threatened_aggregate,"Commercial Building at risk, contributed to",Number of commercial buildings at risk because of or contributed to by a wildfire incident
+outb_threatened_aggregate,"Other buildings at risk, contributed to",Number of houses (primary residences) at risk because of or contributed to by a wildfire incident
+injuries_to_date_last,"Injuries, contributed to",Total number of human injuries from discovery date to time of publication which are caused by or contributed to by a wildfire incident
+fatalities_last,"Fatalities, contributed to",Total number of human fatalities from discovery date to time of publication which are caused or contributed to by a wildfire incident
+latitude,Latitude,Latitude (decimal degrees)
+longitude,Longitude,Longitude (decimal degrees)
+start_day_of_year,Start day of the year,"Day of the year a wildfire incident is discovered, described by a continuous day count where 1 January is ""1"" and 31 December is ""365"" (""366"" on leap years)"
+control_year,Control Year,"Year wildfire incident is declared ""controlled"", described as YYYY"
+control_day_of_year,Control day of the year,"Day of the year a wildfire incident is declared ""controlled"", described by a continuous day count where 1 January is ""1"" and 31 December is ""365"" (""366"" on leap years)"
+gt_100,,Indicator for fire size greater than 100 acres (1 = > 100 acres)
+dom_strat_ind_75,,"Indicator for wildfire with at least 75% suppression strategies (1 = wildfire with at least 75% suppression response strategy, 0 = wildfire with < 75%)"
+dom_strat_ind_25,,"Indicator for wildfire with at least 25% suppression strategies (1 = wildfire with at least 25% suppression response strategy, 0 = wildfire with < 25%)"
+dom_strat_ind_50,,"Indicator for wildfire with at least 50% suppression strategies (1 = wildfire with at least 50% suppression response strategy, 0 = wildfire with < 50%)"
+station_verified_in_psa,,Remote Automatic Weather Station (RAWS) ID number for weather data
+hec,Fire Size,Wildfire incident size in hectares
+cause_ind,Cause ,"Indicator of wildfire incident cause of ignition (0 = non-human ignited such as Natural, Unknown, Lightning; 1 = human ignited)"
+total_fire_region,Number of Fires - Region ,"Total number of wildifire incidents in a given region (see ""region"" attribute) in a given fire year (see ""start_year"" in attributes)"
+total_fire_west,Number of Fires - West,"Total number of wildifire incidents in the western U.S. (containing all six regions and 11 states) in a given fire year (see ""start_year"" in attributes)"

@@ -1,0 +1,25 @@
+:Product: 0309geomag_forecast.txt
+:Issued: 2025 Mar 09 2205 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+NOAA Ap Index Forecast
+Observed Ap 08 Mar 021
+Estimated Ap 09 Mar 034
+Predicted Ap 10 Mar-12 Mar 025-020-012
+
+NOAA Geomagnetic Activity Probabilities 10 Mar-12 Mar
+Active                25/40/40
+Minor storm           40/15/10
+Moderate storm        25/01/01
+Strong-Extreme storm  01/01/01
+
+NOAA Kp index forecast 10 Mar - 12 Mar
+             Mar 10    Mar 11    Mar 12
+00-03UT        4.00      3.67      3.67      
+03-06UT        5.00      3.67      2.67      
+06-09UT        4.00      3.33      2.33      
+09-12UT        3.33      3.33      2.33      
+12-15UT        3.00      3.33      2.33      
+15-18UT        3.00      3.33      2.00      
+18-21UT        3.67      3.67      2.67      
+21-00UT        4.00      3.33      2.67      

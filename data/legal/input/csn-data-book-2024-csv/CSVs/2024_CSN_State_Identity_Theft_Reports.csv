@@ -1,0 +1,371 @@
+State: Identity Theft Reports,,,
+,,,
+State,Theft Type,# of Reports,Percentage
+Alabama,Bank Account,"1,202",9%
+Alabama,Credit Card,"5,245",39%
+Alabama,Employment or Tax-Related,746,5%
+Alabama,Government Documents or Benefits,696,5%
+Alabama,Loan or Lease,"2,846",21%
+Alabama,Other Identity Theft,"4,842",36%
+Alabama,Phone or Utilities,"1,012",7%
+Alaska,Bank Account,131,17%
+Alaska,Credit Card,252,32%
+Alaska,Employment or Tax-Related,69,9%
+Alaska,Government Documents or Benefits,79,10%
+Alaska,Loan or Lease,116,15%
+Alaska,Other Identity Theft,219,28%
+Alaska,Phone or Utilities,72,9%
+Arizona,Bank Account,"1,987",10%
+Arizona,Credit Card,"8,097",39%
+Arizona,Employment or Tax-Related,"2,502",12%
+Arizona,Government Documents or Benefits,"1,134",5%
+Arizona,Loan or Lease,"3,541",17%
+Arizona,Other Identity Theft,"5,617",27%
+Arizona,Phone or Utilities,"1,823",9%
+Arkansas,Bank Account,755,12%
+Arkansas,Credit Card,"1,979",31%
+Arkansas,Employment or Tax-Related,855,13%
+Arkansas,Government Documents or Benefits,391,6%
+Arkansas,Loan or Lease,"1,092",17%
+Arkansas,Other Identity Theft,"2,070",33%
+Arkansas,Phone or Utilities,520,8%
+California,Bank Account,"11,916",9%
+California,Credit Card,"68,323",49%
+California,Employment or Tax-Related,"10,341",7%
+California,Government Documents or Benefits,"6,442",5%
+California,Loan or Lease,"18,629",13%
+California,Other Identity Theft,"38,458",28%
+California,Phone or Utilities,"7,182",5%
+Colorado,Bank Account,"2,230",18%
+Colorado,Credit Card,"4,191",35%
+Colorado,Employment or Tax-Related,"1,282",11%
+Colorado,Government Documents or Benefits,"1,165",10%
+Colorado,Loan or Lease,"1,822",15%
+Colorado,Other Identity Theft,"2,777",23%
+Colorado,Phone or Utilities,"1,002",8%
+Connecticut,Bank Account,"1,232",14%
+Connecticut,Credit Card,"3,786",45%
+Connecticut,Employment or Tax-Related,504,6%
+Connecticut,Government Documents or Benefits,554,7%
+Connecticut,Loan or Lease,948,11%
+Connecticut,Other Identity Theft,"2,276",27%
+Connecticut,Phone or Utilities,663,8%
+Delaware,Bank Account,320,8%
+Delaware,Credit Card,"1,785",45%
+Delaware,Employment or Tax-Related,157,4%
+Delaware,Government Documents or Benefits,152,4%
+Delaware,Loan or Lease,670,17%
+Delaware,Other Identity Theft,"1,226",31%
+Delaware,Phone or Utilities,385,10%
+District of Columbia,Bank Account,428,13%
+District of Columbia,Credit Card,"1,572",49%
+District of Columbia,Employment or Tax-Related,160,5%
+District of Columbia,Government Documents or Benefits,189,6%
+District of Columbia,Loan or Lease,532,16%
+District of Columbia,Other Identity Theft,800,25%
+District of Columbia,Phone or Utilities,196,6%
+Florida,Bank Account,"7,335",6%
+Florida,Credit Card,"57,997",50%
+Florida,Employment or Tax-Related,"3,871",3%
+Florida,Government Documents or Benefits,"3,382",3%
+Florida,Loan or Lease,"18,568",16%
+Florida,Other Identity Theft,"37,464",32%
+Florida,Phone or Utilities,"6,344",5%
+Georgia,Bank Account,"3,397",6%
+Georgia,Credit Card,"26,174",47%
+Georgia,Employment or Tax-Related,"2,262",4%
+Georgia,Government Documents or Benefits,"1,473",3%
+Georgia,Loan or Lease,"12,232",22%
+Georgia,Other Identity Theft,"19,345",35%
+Georgia,Phone or Utilities,"3,852",7%
+Hawaii,Bank Account,301,15%
+Hawaii,Credit Card,805,40%
+Hawaii,Employment or Tax-Related,106,5%
+Hawaii,Government Documents or Benefits,117,6%
+Hawaii,Loan or Lease,308,15%
+Hawaii,Other Identity Theft,601,30%
+Hawaii,Phone or Utilities,139,7%
+Idaho,Bank Account,371,16%
+Idaho,Credit Card,787,33%
+Idaho,Employment or Tax-Related,190,8%
+Idaho,Government Documents or Benefits,128,5%
+Idaho,Loan or Lease,452,19%
+Idaho,Other Identity Theft,646,27%
+Idaho,Phone or Utilities,209,9%
+Illinois,Bank Account,"4,128",10%
+Illinois,Credit Card,"17,685",41%
+Illinois,Employment or Tax-Related,"2,407",6%
+Illinois,Government Documents or Benefits,"3,693",9%
+Illinois,Loan or Lease,"7,674",18%
+Illinois,Other Identity Theft,"11,872",28%
+Illinois,Phone or Utilities,"3,743",9%
+Indiana,Bank Account,"1,467",11%
+Indiana,Credit Card,"4,860",36%
+Indiana,Employment or Tax-Related,848,6%
+Indiana,Government Documents or Benefits,627,5%
+Indiana,Loan or Lease,"3,089",23%
+Indiana,Other Identity Theft,"4,883",36%
+Indiana,Phone or Utilities,"1,032",8%
+Iowa,Bank Account,630,16%
+Iowa,Credit Card,"1,321",34%
+Iowa,Employment or Tax-Related,284,7%
+Iowa,Government Documents or Benefits,411,10%
+Iowa,Loan or Lease,527,13%
+Iowa,Other Identity Theft,"1,088",28%
+Iowa,Phone or Utilities,346,9%
+Kansas,Bank Account,742,16%
+Kansas,Credit Card,"1,429",32%
+Kansas,Employment or Tax-Related,479,11%
+Kansas,Government Documents or Benefits,302,7%
+Kansas,Loan or Lease,904,20%
+Kansas,Other Identity Theft,"1,141",25%
+Kansas,Phone or Utilities,369,8%
+Kentucky,Bank Account,954,15%
+Kentucky,Credit Card,"2,101",33%
+Kentucky,Employment or Tax-Related,545,9%
+Kentucky,Government Documents or Benefits,345,5%
+Kentucky,Loan or Lease,933,15%
+Kentucky,Other Identity Theft,"2,139",33%
+Kentucky,Phone or Utilities,532,8%
+Louisiana,Bank Account,937,6%
+Louisiana,Credit Card,"6,970",44%
+Louisiana,Employment or Tax-Related,726,5%
+Louisiana,Government Documents or Benefits,700,4%
+Louisiana,Loan or Lease,"2,986",19%
+Louisiana,Other Identity Theft,"5,558",35%
+Louisiana,Phone or Utilities,"1,044",7%
+Maine,Bank Account,281,16%
+Maine,Credit Card,520,30%
+Maine,Employment or Tax-Related,219,13%
+Maine,Government Documents or Benefits,122,7%
+Maine,Loan or Lease,256,15%
+Maine,Other Identity Theft,491,28%
+Maine,Phone or Utilities,142,8%
+Maryland,Bank Account,"2,057",10%
+Maryland,Credit Card,"8,958",45%
+Maryland,Employment or Tax-Related,"1,054",5%
+Maryland,Government Documents or Benefits,"1,125",6%
+Maryland,Loan or Lease,"3,112",16%
+Maryland,Other Identity Theft,"5,707",29%
+Maryland,Phone or Utilities,"1,260",6%
+Massachusetts,Bank Account,"4,347",16%
+Massachusetts,Credit Card,"11,469",42%
+Massachusetts,Employment or Tax-Related,"1,242",5%
+Massachusetts,Government Documents or Benefits,"2,462",9%
+Massachusetts,Loan or Lease,"2,597",10%
+Massachusetts,Other Identity Theft,"8,543",31%
+Massachusetts,Phone or Utilities,964,4%
+Michigan,Bank Account,"2,469",10%
+Michigan,Credit Card,"9,383",39%
+Michigan,Employment or Tax-Related,"1,346",6%
+Michigan,Government Documents or Benefits,"1,225",5%
+Michigan,Loan or Lease,"4,022",17%
+Michigan,Other Identity Theft,"7,585",32%
+Michigan,Phone or Utilities,"2,820",12%
+Minnesota,Bank Account,"1,272",17%
+Minnesota,Credit Card,"2,799",38%
+Minnesota,Employment or Tax-Related,522,7%
+Minnesota,Government Documents or Benefits,549,8%
+Minnesota,Loan or Lease,"1,164",16%
+Minnesota,Other Identity Theft,"1,877",26%
+Minnesota,Phone or Utilities,565,8%
+Mississippi,Bank Account,608,8%
+Mississippi,Credit Card,"3,066",39%
+Mississippi,Employment or Tax-Related,407,5%
+Mississippi,Government Documents or Benefits,266,3%
+Mississippi,Loan or Lease,"1,844",23%
+Mississippi,Other Identity Theft,"2,862",36%
+Mississippi,Phone or Utilities,516,7%
+Missouri,Bank Account,"1,731",15%
+Missouri,Credit Card,"3,740",32%
+Missouri,Employment or Tax-Related,777,7%
+Missouri,Government Documents or Benefits,602,5%
+Missouri,Loan or Lease,"2,466",21%
+Missouri,Other Identity Theft,"3,739",32%
+Missouri,Phone or Utilities,917,8%
+Montana,Bank Account,232,16%
+Montana,Credit Card,440,30%
+Montana,Employment or Tax-Related,104,7%
+Montana,Government Documents or Benefits,282,19%
+Montana,Loan or Lease,202,14%
+Montana,Other Identity Theft,337,23%
+Montana,Phone or Utilities,137,9%
+Nebraska,Bank Account,404,16%
+Nebraska,Credit Card,840,33%
+Nebraska,Employment or Tax-Related,207,8%
+Nebraska,Government Documents or Benefits,253,10%
+Nebraska,Loan or Lease,362,14%
+Nebraska,Other Identity Theft,746,29%
+Nebraska,Phone or Utilities,228,9%
+Nevada,Bank Account,990,7%
+Nevada,Credit Card,"6,667",46%
+Nevada,Employment or Tax-Related,769,5%
+Nevada,Government Documents or Benefits,597,4%
+Nevada,Loan or Lease,"2,917",20%
+Nevada,Other Identity Theft,"4,593",31%
+Nevada,Phone or Utilities,"1,093",7%
+New Hampshire,Bank Account,371,18%
+New Hampshire,Credit Card,797,38%
+New Hampshire,Employment or Tax-Related,142,7%
+New Hampshire,Government Documents or Benefits,124,6%
+New Hampshire,Loan or Lease,276,13%
+New Hampshire,Other Identity Theft,513,25%
+New Hampshire,Phone or Utilities,202,10%
+New Jersey,Bank Account,"2,906",10%
+New Jersey,Credit Card,"12,569",43%
+New Jersey,Employment or Tax-Related,"2,052",7%
+New Jersey,Government Documents or Benefits,"1,437",5%
+New Jersey,Loan or Lease,"3,783",13%
+New Jersey,Other Identity Theft,"8,571",30%
+New Jersey,Phone or Utilities,"2,307",8%
+New Mexico,Bank Account,417,13%
+New Mexico,Credit Card,891,28%
+New Mexico,Employment or Tax-Related,420,13%
+New Mexico,Government Documents or Benefits,391,12%
+New Mexico,Loan or Lease,514,16%
+New Mexico,Other Identity Theft,922,29%
+New Mexico,Phone or Utilities,290,9%
+New York,Bank Account,"6,073",10%
+New York,Credit Card,"26,736",46%
+New York,Employment or Tax-Related,"2,652",5%
+New York,Government Documents or Benefits,"4,275",7%
+New York,Loan or Lease,"7,811",13%
+New York,Other Identity Theft,"15,951",27%
+New York,Phone or Utilities,"4,515",8%
+North Carolina,Bank Account,"2,678",10%
+North Carolina,Credit Card,"11,172",41%
+North Carolina,Employment or Tax-Related,"1,681",6%
+North Carolina,Government Documents or Benefits,"1,137",4%
+North Carolina,Loan or Lease,"4,470",16%
+North Carolina,Other Identity Theft,"9,664",35%
+North Carolina,Phone or Utilities,"2,396",9%
+North Dakota,Bank Account,127,14%
+North Dakota,Credit Card,289,31%
+North Dakota,Employment or Tax-Related,62,7%
+North Dakota,Government Documents or Benefits,70,8%
+North Dakota,Loan or Lease,180,19%
+North Dakota,Other Identity Theft,286,31%
+North Dakota,Phone or Utilities,86,9%
+Ohio,Bank Account,"3,418",12%
+Ohio,Credit Card,"10,311",37%
+Ohio,Employment or Tax-Related,"1,369",5%
+Ohio,Government Documents or Benefits,"2,867",10%
+Ohio,Loan or Lease,"4,414",16%
+Ohio,Other Identity Theft,"8,401",30%
+Ohio,Phone or Utilities,"2,115",8%
+Oklahoma,Bank Account,974,14%
+Oklahoma,Credit Card,"2,079",31%
+Oklahoma,Employment or Tax-Related,667,10%
+Oklahoma,Government Documents or Benefits,469,7%
+Oklahoma,Loan or Lease,"1,205",18%
+Oklahoma,Other Identity Theft,"2,129",32%
+Oklahoma,Phone or Utilities,671,10%
+Oregon,Bank Account,"1,156",17%
+Oregon,Credit Card,"2,217",32%
+Oregon,Employment or Tax-Related,616,9%
+Oregon,Government Documents or Benefits,643,9%
+Oregon,Loan or Lease,"1,053",15%
+Oregon,Other Identity Theft,"1,827",26%
+Oregon,Phone or Utilities,840,12%
+Pennsylvania,Bank Account,"4,762",13%
+Pennsylvania,Credit Card,"16,639",44%
+Pennsylvania,Employment or Tax-Related,"2,051",5%
+Pennsylvania,Government Documents or Benefits,"2,070",5%
+Pennsylvania,Loan or Lease,"4,839",13%
+Pennsylvania,Other Identity Theft,"11,521",31%
+Pennsylvania,Phone or Utilities,"2,837",8%
+Puerto Rico,Bank Account,45,3%
+Puerto Rico,Credit Card,545,33%
+Puerto Rico,Employment or Tax-Related,523,32%
+Puerto Rico,Government Documents or Benefits,76,5%
+Puerto Rico,Loan or Lease,183,11%
+Puerto Rico,Other Identity Theft,367,22%
+Puerto Rico,Phone or Utilities,71,4%
+Rhode Island,Bank Account,382,13%
+Rhode Island,Credit Card,996,34%
+Rhode Island,Employment or Tax-Related,174,6%
+Rhode Island,Government Documents or Benefits,349,12%
+Rhode Island,Loan or Lease,419,14%
+Rhode Island,Other Identity Theft,808,28%
+Rhode Island,Phone or Utilities,152,5%
+South Carolina,Bank Account,"1,373",9%
+South Carolina,Credit Card,"6,451",43%
+South Carolina,Employment or Tax-Related,705,5%
+South Carolina,Government Documents or Benefits,566,4%
+South Carolina,Loan or Lease,"3,178",21%
+South Carolina,Other Identity Theft,"4,831",32%
+South Carolina,Phone or Utilities,"1,323",9%
+South Dakota,Bank Account,139,16%
+South Dakota,Credit Card,297,35%
+South Dakota,Employment or Tax-Related,63,7%
+South Dakota,Government Documents or Benefits,52,6%
+South Dakota,Loan or Lease,159,19%
+South Dakota,Other Identity Theft,218,26%
+South Dakota,Phone or Utilities,78,9%
+Tennessee,Bank Account,"1,621",11%
+Tennessee,Credit Card,"5,445",37%
+Tennessee,Employment or Tax-Related,932,6%
+Tennessee,Government Documents or Benefits,"1,149",8%
+Tennessee,Loan or Lease,"2,849",19%
+Tennessee,Other Identity Theft,"4,628",31%
+Tennessee,Phone or Utilities,"1,118",8%
+Texas,Bank Account,"9,273",8%
+Texas,Credit Card,"44,480",38%
+Texas,Employment or Tax-Related,"6,846",6%
+Texas,Government Documents or Benefits,"4,879",4%
+Texas,Loan or Lease,"25,304",22%
+Texas,Other Identity Theft,"37,984",33%
+Texas,Phone or Utilities,"9,079",8%
+Utah,Bank Account,675,13%
+Utah,Credit Card,"1,730",33%
+Utah,Employment or Tax-Related,489,9%
+Utah,Government Documents or Benefits,453,9%
+Utah,Loan or Lease,842,16%
+Utah,Other Identity Theft,"1,552",30%
+Utah,Phone or Utilities,410,8%
+Vermont,Bank Account,120,18%
+Vermont,Credit Card,219,34%
+Vermont,Employment or Tax-Related,66,10%
+Vermont,Government Documents or Benefits,52,8%
+Vermont,Loan or Lease,110,17%
+Vermont,Other Identity Theft,133,20%
+Vermont,Phone or Utilities,53,8%
+Virginia,Bank Account,"2,699",15%
+Virginia,Credit Card,"7,245",39%
+Virginia,Employment or Tax-Related,"1,198",6%
+Virginia,Government Documents or Benefits,904,5%
+Virginia,Loan or Lease,"2,775",15%
+Virginia,Other Identity Theft,"5,674",31%
+Virginia,Phone or Utilities,"1,491",8%
+Washington,Bank Account,"2,318",18%
+Washington,Credit Card,"4,420",34%
+Washington,Employment or Tax-Related,"1,130",9%
+Washington,Government Documents or Benefits,"1,274",10%
+Washington,Loan or Lease,"2,049",16%
+Washington,Other Identity Theft,"3,560",27%
+Washington,Phone or Utilities,997,8%
+West Virginia,Bank Account,343,17%
+West Virginia,Credit Card,610,30%
+West Virginia,Employment or Tax-Related,193,10%
+West Virginia,Government Documents or Benefits,123,6%
+West Virginia,Loan or Lease,295,15%
+West Virginia,Other Identity Theft,627,31%
+West Virginia,Phone or Utilities,183,9%
+Wisconsin,Bank Account,"1,288",15%
+Wisconsin,Credit Card,"3,050",35%
+Wisconsin,Employment or Tax-Related,796,9%
+Wisconsin,Government Documents or Benefits,567,6%
+Wisconsin,Loan or Lease,"1,588",18%
+Wisconsin,Other Identity Theft,"2,525",29%
+Wisconsin,Phone or Utilities,787,9%
+Wyoming,Bank Account,96,14%
+Wyoming,Credit Card,186,27%
+Wyoming,Employment or Tax-Related,59,8%
+Wyoming,Government Documents or Benefits,30,4%
+Wyoming,Loan or Lease,148,21%
+Wyoming,Other Identity Theft,223,32%
+Wyoming,Phone or Utilities,59,8%
+,,,
+Percentages are based on the total number of 2024 Identity Theft reports from the corresponding state's consumers. Consumers can report multiple types of identity theft.,,,
+,,,
+"Source: Consumer Sentinel Network Data Book 2024, Federal Trade Commission",,,
