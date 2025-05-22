@@ -3,6 +3,33 @@
 Unlike question-answer–only corpora, each task in KramaBench asks a system to build a *complete* data pipeline: load raw files, clean them, transform them, and compute a final answer.
 Because ground-truth code is provided, KramaBench can evaluate both the **quality of the final answer** *and* the **correctness of intermediate steps**.
 
+![Benchmark Overview](images/benchmark-overview.png)
+
+### Systems leaderboard
+Overall evaluation results by domain for KramaBench:
+
+| Variant                       | Model            | Archaeology | Astronomy | Biomedical | Environment |   Legal | Wildfire | **Overall** |
+| ----------------------------- | ---------------- | ----------: | --------: | ---------: | ----------: | ------: | -------: | ----------: |
+| **Naive**                     | GPT-o3           |        25 % |    1.73 % |     3.50 % |      1.35 % |  3.35 % |  24.87 % |  **9.64 %** |
+|                               | GPT-4o           |      0.00 % |    1.41 % |     1.98 % |      0.45 % |  1.46 % |   1.45 % |  **1.62 %** |
+|                               | Claude-3.5       |     16.67 % |    1.62 % |     2.87 % |      1.17 % |  7.33 % |  13.63 % |  **7.45 %** |
+|                               | Llama-3 Instruct |      0.00 % |    1.43 % |     1.70 % |      0.98 % |  1.37 % |   1.44 % |  **1.19 %** |
+|                               | DeepSeek-R1      |      0.00 % |    1.50 % |     2.49 % |      2.60 % |  1.61 % |   6.46 % |  **3.14 %** |
+|                               | Qwen-2 Coder     |      0.00 % |    1.37 % |     2.02 % |      1.07 % |  1.44 % |  13.68 % |  **3.72 %** |
+| **DS-GURU (simple)**          | GPT-o3           |        25 % |    3.00 % |     8.63 % |      7.66 % | 19.15 % |  45.95 % | **20.80 %** |
+|                               | GPT-4o           |      8.33 % |    1.40 % |     9.38 % |      2.60 % |  2.74 % |  19.39 % |  **7.61 %** |
+|                               | Claude-3.5       |      0.00 % |    4.15 % |     2.15 % |      6.21 % |  6.68 % |  34.99 % | **10.85 %** |
+|                               | Llama-3 Instruct |      0.00 % |    1.42 % |    10.38 % |      0.98 % |  5.48 % |   9.81 % |  **4.81 %** |
+|                               | DeepSeek-R1      |      0.00 % |    1.57 % |     3.39 % |      2.60 % |  8.30 % |  14.81 % |  **6.35 %** |
+|                               | Qwen-2 Coder     |      0.00 % |    1.36 % |     2.22 % |     12.59 % |  1.15 % |  16.48 % |  **6.43 %** |
+| **DS-GURU (self-correcting)** | GPT-o3           |        25 % |    3.53 % |     8.95 % |     19.60 % | 13.89 % |  50.73 % | **22.08 %** |
+|                               | GPT-4o           |     16.67 % |    2.76 % |     8.97 % |      2.60 % |  2.80 % |  17.18 % |  **8.28 %** |
+|                               | Claude-3.5       |     16.67 % |    1.52 % |     1.96 % |     11.21 % |  7.01 % |  39.16 % | **14.35 %** |
+|                               | Llama-3 Instruct |      0.00 % |    1.35 % |     6.98 % |      0.93 % |  2.15 % |  14.49 % |  **4.48 %** |
+|                               | DeepSeek-R1      |      8.33 % |    2.64 % |     2.87 % |     19.08 % |  8.39 % |  30.29 % |  **6.34 %** |
+|                               | Qwen-2 Coder     |      8.33 % |    2.40 % |     4.35 % |     12.64 % |  9.06 % |  16.48 % |  **9.98 %** |
+
+
 ## Breakdown of tasks per domain
 
 | Domain      |  #Tasks | #Sub-tasks | % “Hard” | File count |   Raw size |
