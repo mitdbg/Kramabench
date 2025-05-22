@@ -3,7 +3,7 @@
 Unlike question-answer–only corpora, each task in KramaBench asks a system to build a *complete* data pipeline: load raw files, clean them, transform them, and compute a final answer.
 Because ground-truth code is provided, KramaBench can evaluate both the **quality of the final answer** *and* the **correctness of intermediate steps**.
 
-![Benchmark Overview](images/benchmark-overview.png)
+![Benchmark Overview](benchmark-overview.png)
 
 ### Systems leaderboard
 Overall evaluation results by domain for KramaBench:
