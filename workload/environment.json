@@ -190,7 +190,7 @@
   {
     "id": "environment-easy-3",
     "query": "How many beaches had a higher bacterial exceedance rate for water samples collected in 2013 compared to 2012, excluding those with no samples in 2012?",
-    "answer": 255,
+    "answer": 267,
     "answer_type": "numeric_exact",
     "runtime": 1,
     "data_sources": [
@@ -625,9 +625,9 @@
     "data_sources": [
       "boston-harbor-beaches.txt",
       "constitution_beach_datasheet.csv",
-      "carson-beach-datasheet.csv",
+      "carson_beach_datasheet.csv",
       "pleasure_bay_and_castle_island_beach_datasheet.csv",
-      "m-street-beach-datasheet.csv",
+      "m_street_beach_datasheet.csv",
       "city_point_beach_datasheet.csv",
       "malibu_beach_datasheet.csv",
       "tenean_beach_datasheet.csv",
@@ -640,9 +640,9 @@
         "query": "Which datasheets are needed for this analysis?",
         "answer": [
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -652,9 +652,9 @@
         "data_sources": [
           "boston-harbor-beaches.txt",
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -669,9 +669,9 @@
         "answer_type": "list_exact",
         "data_sources": [
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -686,9 +686,9 @@
         "answer_type": "list_approximate",
         "data_sources": [
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -703,9 +703,9 @@
         "answer_type": "string_approximate",
         "data_sources": [
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -720,9 +720,9 @@
         "answer_type": "string_approximate",
         "data_sources": [
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -737,9 +737,9 @@
         "answer_type": "list_exact",
         "data_sources": [
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -754,9 +754,9 @@
         "answer_type": "list_exact",
         "data_sources": [
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -771,9 +771,9 @@
         "answer_type": "numeric_exact",
         "data_sources": [
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -795,9 +795,9 @@
     "data_sources": [
       "boston-harbor-beaches.txt",
       "constitution_beach_datasheet.csv",
-      "carson-beach-datasheet.csv",
+      "carson_beach_datasheet.csv",
       "pleasure_bay_and_castle_island_beach_datasheet.csv",
-      "m-street-beach-datasheet.csv",
+      "m_street_beach_datasheet.csv",
       "city_point_beach_datasheet.csv",
       "malibu_beach_datasheet.csv",
       "tenean_beach_datasheet.csv",
@@ -833,9 +833,9 @@
         "data_sources": [
           "boston-harbor-beaches.txt",
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -851,9 +851,9 @@
         "data_sources": [
           "boston-harbor-beaches.txt",
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -869,9 +869,9 @@
         "data_sources": [
           "boston-harbor-beaches.txt",
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -884,7 +884,7 @@
         "query": "What locations are measured for Carson beach?",
         "answer": ["I Street", "McCormack Bathhouse"],
         "answer_type": "list_exact",
-        "data_sources": ["carson-beach-datasheet.csv"]
+        "data_sources": ["carson_beach_datasheet.csv"]
       },
       {
         "id": "environment-hard-9-6",
@@ -895,9 +895,9 @@
         "data_sources": [
           "boston-harbor-beaches.txt",
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -913,9 +913,9 @@
         "data_sources": [
           "boston-harbor-beaches.txt",
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -931,9 +931,9 @@
         "data_sources": [
           "boston-harbor-beaches.txt",
           "constitution_beach_datasheet.csv",
-          "carson-beach-datasheet.csv",
+          "carson_beach_datasheet.csv",
           "pleasure_bay_and_castle_island_beach_datasheet.csv",
-          "m-street-beach-datasheet.csv",
+          "m_street_beach_datasheet.csv",
           "city_point_beach_datasheet.csv",
           "malibu_beach_datasheet.csv",
           "tenean_beach_datasheet.csv",
@@ -1153,9 +1153,9 @@
     "data_sources": [
       "boston-harbor-beaches.txt",
       "constitution_beach_datasheet.csv",
-      "carson-beach-datasheet.csv",
+      "carson_beach_datasheet.csv",
       "pleasure_bay_and_castle_island_beach_datasheet.csv",
-      "m-street-beach-datasheet.csv",
+      "m_street_beach_datasheet.csv",
       "city_point_beach_datasheet.csv",
       "malibu_beach_datasheet.csv",
       "tenean_beach_datasheet.csv",
@@ -1689,7 +1689,7 @@
     "runtime": 0.5,
     "data_sources": [
       "monthly_precipitations_chatham.csv",
-      "water-body-testing-2016.csv"
+      "water-body-testing-2006.csv"
     ],
     "subtasks": [
       {
