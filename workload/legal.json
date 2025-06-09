@@ -2014,7 +2014,7 @@
     },
     {
         "id": "legal-hard-7",
-        "query": "Which fraud category was growing the fastest between 2020 and 2024 in relative terms?",
+        "query": "Which identity theft category was growing the fastest between 2020 and 2024 in relative terms?",
         "answer": "Bank Account",
         "answer_type": "string_exact",
         "runtime": 1,
@@ -2025,7 +2025,7 @@
             {
                 "id": "legal-hard-7-1",
                 "step": "Load the raw file 2024_CSN_Top_Three_Identity_Theft_Reports_by_Year.csv",
-                "query": "Which file is needed to analyze the growth of fraud categories?",
+                "query": "Which file is needed to analyze the growth of identity theft categories?",
                 "answer": "2024_CSN_Top_Three_Identity_Theft_Reports_by_Year.csv",
                 "answer_type": "string_approximate",
                 "data_sources": [
@@ -2074,8 +2074,8 @@
             },
             {
                 "id": "legal-hard-7-4",
-                "step": "Treat two columns as swapped: keep rows whose 'Theft Type' field contains the years 2020 or 2024 (so 'Theft Type' is actually the year and 'Year' is the fraud category).",
-                "query": "What are the fraud categories available for each year?",
+                "step": "Treat two columns as swapped: keep rows whose 'Theft Type' field contains the years 2020 or 2024 (so 'Theft Type' is actually the year and 'Year' is the identity theft category).",
+                "query": "What are the identity theft categories available for each year?",
                 "answer": [
                     "Bank Account",
                     "Credit Card",
@@ -2119,7 +2119,7 @@
             },
             {
                 "id": "legal-hard-7-7",
-                "step": "Identify the category with the largest growth_ratio (idxmax) and output that category name (title-cased) as the fastest-growing fraud type between 2020 and 2024.",
+                "step": "Identify the category with the largest growth_ratio (idxmax) and output that category name (title-cased) as the fastest-growing identity theft type between 2020 and 2024.",
                 "query": "Which category has the highest growth ratio after computing the growth ratio between 2024 and 2024?",
                 "answer": "Bank Account",
                 "answer_type": "string_exact",
