@@ -14,4 +14,4 @@ for idx, fire_row in noaa_fire_data_2008_sorted_df.iterrows():
     if cur_agg >= damage_threshold:
         result_idx = idx
         break
-print(f"The percentage of wildfires accounting for 90% of residential house damage in 2008 is {result_idx/len(noaa_fire_data_2008_df)}%")
+print(f"The percentage of wildfires accounting for 90% of residential house damage in 2008 is {result_idx/len(noaa_fire_data_2008_df) * 100}%")

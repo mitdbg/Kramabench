@@ -14517,7 +14517,7 @@
     {
         "id": "wildfire-hard-20",
         "query": "According to NOAA, what percentage (to 2 decimal places) of wildfires account for at least 90% of residential houses damaged in 2008?",
-        "answer": 0.0465,
+        "answer": 4.65,
         "answer_type": "numeric_exact",
         "data_sources": [
             "noaa_wildfires.csv",
@@ -14598,7 +14598,7 @@
                 "id": "wildfire-hard-20-7",
                 "step": "Calculate the percentage of fires needed to reach the 90 % damage threshold by dividing that index value by the total count of 2008 fires and print the result.",
                 "query": "What percentage of the 2008 fires account for 90% of residential house damage? Give the percentage score and round to 4 decimal places.",
-                "answer": 0.0465,
+                "answer": 4.65,
                 "answer_type": "numeric_exact",
                 "data_sources": [
                     "noaa_wildfires.csv"
