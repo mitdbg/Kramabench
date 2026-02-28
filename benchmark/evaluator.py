@@ -74,7 +74,9 @@ class Evaluator:
 
         try:
             metric = metric_factory(metric_name)
+            print(f"Evaluating task_id {task_id} with metric {metric_name}...", end="")
             score, token_usage, token_usage_input, token_usage_output = metric(predicted=system_answer, target=target_answer)
+            print("done")
         except Exception as e:
             print(f"evaluate_response_with_metric: task_id {task_id} - failed to compute metric {metric_name}: {e}.")
             print(system_answer)
@@ -125,17 +127,6 @@ class Evaluator:
         evaluation_result["token_usage_metrics_input"] = total_token_usage_metrics_input
         evaluation_result["token_usage_metrics_output"] = total_token_usage_metrics_output
 
-        token_usage_pipeline = 0
-        token_usage_pipeline_input = 0
-        token_usage_pipeline_output = 0
-        if evaluate_pipeline:
-            code_eval_list = []
-            code_eval_list, token_usage_pipeline, token_usage_pipeline_input, token_usage_pipeline_output = self.pipeline_evaluation_engine.evaluate_data_pipeline(sut_generated_pipeline=response["code"],task=task)
-            evaluation_result["llm_code_eval"] = code_eval_list
-            evaluation_result["token_usage_pipeline_eval"] = token_usage_pipeline
-            evaluation_result["token_usage_pipeline_eval_input"] = token_usage_pipeline_input
-            evaluation_result["token_usage_pipeline_eval_output"] = token_usage_pipeline_output
-
         evaluation_result["token_usage_subtask_eval"] = 0
         evaluation_result["token_usage_subtask_eval_input"] = 0
         evaluation_result["token_usage_subtask_eval_output"] = 0
@@ -152,6 +143,19 @@ class Evaluator:
                 evaluation_result['token_usage_subtask_eval'] += subtask_result[0].get('token_usage_sut', 0)
                 evaluation_result['token_usage_subtask_eval'] += subtask_result[0].get('token_usage_sut_input', 0)
                 evaluation_result['token_usage_subtask_eval'] += subtask_result[0].get('token_usage_sut_output', 0)
+
+        token_usage_pipeline = 0
+        token_usage_pipeline_input = 0
+        token_usage_pipeline_output = 0
+        if evaluate_pipeline:
+            print(f"Evaluating task pipeline...", end="")
+            code_eval_list = []
+            code_eval_list, token_usage_pipeline, token_usage_pipeline_input, token_usage_pipeline_output = self.pipeline_evaluation_engine.evaluate_data_pipeline(sut_generated_pipeline=response["code"],task=task)
+            print("done")
+            evaluation_result["llm_code_eval"] = code_eval_list
+            evaluation_result["token_usage_pipeline_eval"] = token_usage_pipeline
+            evaluation_result["token_usage_pipeline_eval_input"] = token_usage_pipeline_input
+            evaluation_result["token_usage_pipeline_eval_output"] = token_usage_pipeline_output
 
         return [evaluation_result]+subtask_results
 

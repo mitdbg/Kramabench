@@ -2,8 +2,6 @@ import json
 import logging
 from typing import Generic, List, Tuple, TypeVar
 
-logging.basicConfig(level=logging.ERROR)
-
 import nltk
 from rouge_score import rouge_scorer
 
@@ -365,28 +363,29 @@ class StringBootstrap(Metric):
         return (0.0, token_usage, token_usage_input, token_usage_output)
 
 
+def try_convert_to_number(value):
+    """Try to convert string to number, return original if not possible"""
+    if isinstance(value, (int, float)):
+        return value
+    if isinstance(value, str):
+        try:
+            # Remove percentage sign if present
+            cleaned_value = value.strip()
+            if cleaned_value.endswith('%'):
+                cleaned_value = cleaned_value[:-1].strip()
+            # Try float conversion first (handles both int and float strings)
+            return str_to_float(cleaned_value)
+        except (ValueError, TypeError):
+            return value
+    return value
 class Success(Metric):
     name = "success"
 
     def __call__(self, predicted: str | int | float, target: str | int | float):
+        if predicted is None:
+            return (0,0,0,0)
         try: 
             # Handle numeric comparison (including string representations of numbers)
-            def try_convert_to_number(value):
-                """Try to convert string to number, return original if not possible"""
-                if isinstance(value, (int, float)):
-                    return value
-                if isinstance(value, str):
-                    try:
-                        # Remove percentage sign if present
-                        cleaned_value = value.strip()
-                        if cleaned_value.endswith('%'):
-                            cleaned_value = cleaned_value[:-1].strip()
-                        # Try float conversion first (handles both int and float strings)
-                        return str_to_float(cleaned_value)
-                    except (ValueError, TypeError):
-                        return value
-                return value
-            
             # Try to convert both values to numbers
             predicted_num = try_convert_to_number(predicted)
             target_num = try_convert_to_number(target)

@@ -22,8 +22,6 @@ from benchmark.benchmark_api import System
 from benchmark.executor import Executor
 from benchmark.evaluator import Evaluator
 
-logging.basicConfig(level=logging.WARNING)
-
 
 class Benchmark:
 

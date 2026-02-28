@@ -65564,7 +65564,7 @@
                     "[\"Spain\", \"Spain\", 1390, 1391]",
                     "[\"Sweden\", \"Sweden\", 1208, 1222]"
                 ],
-                "answer_type": "list_approximate",
+                "answer_type": "list_exact",
                 "data_sources": ""
             },
             {

@@ -2,6 +2,7 @@ import argparse
 import datetime
 from email import parser
 import json
+import logging
 import numpy as np
 import os
 import pandas as pd
@@ -9,6 +10,8 @@ import pandas as pd
 from benchmark import Benchmark
 from benchmark.benchmark_utils import print_warning
 
+logging.basicConfig(level=logging.WARNING)
+    
 def aggregate_results(system_name, results_df):
     # Aggregate metrics
     print("Aggregating results...")
@@ -152,7 +155,6 @@ def main():
             num_workers=args.num_workers
         )
 
-        print(f"Starting benchmark workflow on dataset: {dataset_name}")
         dataset_directory = os.path.join(project_root_dir, f"data/{dataset_name}/input")
 
         evaluation_results = benchmark.run_benchmark(

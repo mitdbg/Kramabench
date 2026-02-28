@@ -19,7 +19,6 @@ from .prompts import (
     PIPELINE_EVALUATION_PROMPT,
 )
 
-logging.basicConfig(level=logging.WARNING)
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
 class GPTInterface(LLMInterface):
@@ -267,10 +266,6 @@ The "evaluations" array must contain exactly {len(understanding_list)} boolean v
         else:
             # Direct list/array
             evaluation_list = json_answer
-        
-        print(f"DEBUG: Parsed evaluation_list type: {type(evaluation_list)}, length: {len(evaluation_list) if hasattr(evaluation_list, '__len__') else 'N/A'}")
-        if hasattr(evaluation_list, '__len__') and len(evaluation_list) > 10:
-            print(f"DEBUG: First 10 items: {evaluation_list[:10]}")
         
         try:
             # Convert to boolean with stricter interpretation
