@@ -5577,8 +5577,8 @@
     },
     {
         "id": "legal-easy-21",
-        "query": "What is the total number of identity theft reporters in Alabama in 2024?",
-        "answer": 15387,
+        "query": "What is the total number of identity theft reports in Alabama in 2024?",
+        "answer": 16589,
         "answer_type": "numeric_exact",
         "runtime": 1,
         "data_sources": [
@@ -5600,6 +5600,7 @@
                 "step": "Before splitting on commas, remove commas found inside quoted strings so embedded commas are not treated as delimiters.",
                 "query": "Clean the number of reports column. What are the number of reports? Answer in a list of numbers.",
                 "answer": [
+                    1202,
                     5245,
                     746,
                     696,
@@ -6003,7 +6004,7 @@
                 "id": "legal-easy-21-6",
                 "step": "Loop over the rows of the identity theft reports sub-table, select the rows where the first column equals \"Alabama\", convert the value in the third column to an integer, and accumulate these values.",
                 "query": "What are the integers summed from the # of Reports column of rows belonging to alabama?",
-                "answer": 15387,
+                "answer": 16589,
                 "answer_type": "numeric_exact",
                 "data_sources": [
                     "2024_CSN_State_Identity_Theft_Reports.csv"

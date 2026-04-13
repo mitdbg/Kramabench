@@ -1,6 +1,8 @@
 import re
 import typing as t
+from attr import attributes
 import numpy as np
+import csv
 data_path = "./data/legal/input/"
 
 class TableCsv:
@@ -13,6 +15,13 @@ class TableCsv:
 
 def remove_commas_in_quotes(line):
     return re.sub(r'"[^"]*"', lambda m: m.group(0).replace(',', ''), line)
+
+def is_name_line(line):
+    row = [val for val in csv.reader([line])][0]
+    return row[1:] == [''] * (len(row) - 1)
+
+def is_empty(line):
+    return line.replace(',', '').replace('"', '').strip() == ''
 
 class Table:
     def __init__(self,
@@ -28,41 +37,48 @@ class Table:
     def parse_table(csv_path: str) -> 'Table':
         with open(csv_path, 'r', encoding='utf-8', errors='replace') as f:
             raw_contents = f.readlines()
-        table_name = raw_contents[0].replace(',', '').strip()
         attributes: t.Dict[str, t.Any] = {}
         current_block = []
         first_table = True
-        for line in raw_contents[1:]:
-            cleaned_line = remove_commas_in_quotes(line)
-            cleaned_line = cleaned_line.replace('"', '').strip()
-            if cleaned_line.replace(',', '').strip() == '':
-                # start of the next attribute
-                if len(current_block) <= 0:
-                    continue
-                sub_table_name = [v.strip() for v in current_block[0].split(',') if v.strip() != '']
-                if (first_table or len(sub_table_name) == 1) and len(current_block) >= 3:
-                    # treat it as a csv table.
-                    if first_table:
-                        sub_table_name = table_name
-                    else:
-                        sub_table_name = sub_table_name[0]
-                    columns = [col.strip() for col in current_block[1].split(',')]
-                    values = []
-                    for l in current_block[2:]:
-                        value = [val.strip() for val in l.split(',')]
-                        values.append(value)
-                    attributes[sub_table_name] = TableCsv(columns, values)
+        for line in raw_contents:
+            if is_empty(line):
+                continue
+
+            if is_name_line(line):
+                if first_table:
+                    table_name = line.split(',')[0].strip()
+                    first_table_name = table_name
+                    first_table = False
                 else:
-                    # treat it an unorganized texts
-                    for l in current_block:
-                        attr_name = l.split(',')[0]
-                        attr_content = '|'.join([v.strip() for v in l.split(',')[1:] if v.strip() != ''])
-                        attributes[attr_name] = attr_content
-                current_block = []
-                first_table = False
+                    # flush the current block as a csv table if it has more than 2 lines, otherwise treat it as unorganized text.
+                    if len(current_block) >= 3:
+                        columns = [col.strip() for col in current_block[0].split(',')]
+                        values = csv.reader(current_block)
+                        attributes[table_name] = TableCsv(columns, list(values))
+                    else:
+                       for l in current_block:
+                            attr_name = l.split(',')[0]
+                            attr_content = '|'.join([v.strip() for v in l.split(',')[1:] if v.strip() != ''])
+                            attributes[attr_name] = attr_content
+
+                    table_name = line.split(',')[0].strip()
+                    current_block = []
+                    first_table = False
             else:
-                current_block.append(cleaned_line)
-        return Table(table_name, csv_path, attributes)
+                current_block.append(line)
+
+        if len(current_block):
+            if len(current_block) >= 3:
+                columns = [col.strip() for col in current_block[0].split(',')]
+                values = csv.reader(current_block)
+                attributes[table_name] = TableCsv(columns, list(values))
+            else:
+                for l in current_block:
+                    attr_name = l.split(',')[0]
+                    attr_content = '|'.join([v.strip() for v in l.split(',')[1:] if v.strip() != ''])
+                    attributes[attr_name] = attr_content
+
+        return Table(first_table_name, csv_path, attributes)
 
 
 table1 = Table.parse_table(f"{data_path}/csn-data-book-2024-csv/CSVs/2024_CSN_State_Identity_Theft_Reports.csv")
@@ -72,6 +88,6 @@ sub_table1 = table1.attributes['State: Identity Theft Reports']
 total_alabama = 0
 for row in sub_table1.values:
     if row[0] == 'Alabama':
-        total_alabama += int(row[2])
+        total_alabama += int(row[2].replace(',', ''))
 print(total_alabama)
 
