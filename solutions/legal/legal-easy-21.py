@@ -1,6 +1,5 @@
 import re
 import typing as t
-from attr import attributes
 import numpy as np
 import csv
 data_path = "./data/legal/input/"
@@ -81,13 +80,19 @@ class Table:
         return Table(first_table_name, csv_path, attributes)
 
 
-table1 = Table.parse_table(f"{data_path}/csn-data-book-2024-csv/CSVs/2024_CSN_State_Identity_Theft_Reports.csv")
+# "Total number of identity theft reports" per state is the authoritative per-state
+# count in the State Rankings table. Do NOT sum the per-theft-type breakdown in
+# 2024_CSN_State_Identity_Theft_Reports.csv: a report can carry multiple theft types
+# (its type percentages sum to >100%), so summing the type counts double-counts reports.
+table1 = Table.parse_table(f"{data_path}/csn-data-book-2024-csv/CSVs/2024_CSN_State_Rankings_Identity_Theft_Reports.csv")
 
 
-sub_table1 = table1.attributes['State: Identity Theft Reports']
+sub_table1 = table1.attributes['State Rankings: Identity Theft Reports']
+state_idx = sub_table1.columns.index('State')
+reports_idx = sub_table1.columns.index('# of Reports')
 total_alabama = 0
 for row in sub_table1.values:
-    if row[0] == 'Alabama':
-        total_alabama += int(row[2].replace(',', ''))
+    if row[state_idx] == 'Alabama':
+        total_alabama = int(row[reports_idx].replace(',', ''))
 print(total_alabama)
 
