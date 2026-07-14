@@ -1,0 +1,84 @@
+[
+    {
+        "id": "astronomy-easy-2",
+        "query": "Calculate the ratio of peak atmospheric mass density experienced by Swarm A satellite during March 14th-17th 2014 vs July 18th-21st 2018.",
+        "answer": 6.374,
+        "answer_type": "numeric_exact",
+        "runtime": 0.1,
+        "data_sources": [
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu017-20140317_to_20140320.csv",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu546-20180721_to_20180724.csv"
+        ],
+        "subtasks": [
+            {
+                "id": "astronomy-easy-2-1",
+                "step": "Read the density files covering the two windows. Each 3-day file ends exactly at midnight of its final day, so swarma-wu016 and swarma-wu545 only contain the first instant (00:00) of March 17 and July 21; the remainder of those days lives in the subsequent files swarma-wu017 and swarma-wu546.",
+                "query": "Identify the files containing the density data for March 14th-17th 2014 and July 18th-21st 2018, covering the full final days",
+                "answer": [
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu017-20140317_to_20140320.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu546-20180721_to_20180724.csv"
+                ],
+                "data_sources": [
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu017-20140317_to_20140320.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu546-20180721_to_20180724.csv"
+                ],
+                "answer_type": "list_exact"
+            },
+            {
+                "id": "astronomy-easy-2-2",
+                "step": "Identify that 'Orbit Mean Density (kg/m^3)' holds the atmospheric mass density measurement. Record the maximum value found in the density column between 2014-03-14 00:00 and 2014-03-18 00:00 (the peak occurs 2014-03-14 13:50, inside swarma-wu016).",
+                "query": "What is the maximum value of the atmospheric mass density during March 14th-17th 2014 recorded from the data?",
+                "answer": 1.329e-12,
+                "answer_type": "numeric_exact",
+                "data_sources": [
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu017-20140317_to_20140320.csv"
+                ]
+            },
+            {
+                "id": "astronomy-easy-2-3",
+                "step": "Record the maximum value found in the density column between 2018-07-18 00:00 and 2018-07-22 00:00. The peak occurs 2018-07-21 13:10 and therefore lies in swarma-wu546, not in swarma-wu545 (whose last row is 2018-07-21 00:00).",
+                "query": "What is the maximum value of the atmospheric mass density during July 18th-21st 2018 recorded from the data?",
+                "answer": 2.084e-13,
+                "answer_type": "numeric_exact",
+                "data_sources": [
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu546-20180721_to_20180724.csv"
+                ]
+            },
+            {
+                "id": "astronomy-easy-2-4",
+                "step": "Compute the ratio peak_Mar2014 / peak_Jul2018, but only if the first peak is positive to avoid divide-by-zero or sign issues.",
+                "query": "What is the calculated ratio of the peak densities if the peak density in March 2014 is greater than zero?",
+                "answer": 6.374,
+                "data_sources": [
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu017-20140317_to_20140320.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv",
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu546-20180721_to_20180724.csv"
+                ],
+                "answer_type": "numeric_exact"
+            }
+        ],
+        "deepresearch_subset": [
+            "STORM-AI/warmup/v2/OMNI2/omni2-wu091-20140826_to_20141025.csv",
+            "space-track/58214_storm.csv",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu260-20160315_to_20160318.csv",
+            "STORM-AI/warmup/v2/OMNI2/omni2-wu492-20171211_to_20180209.csv",
+            "swarm/POD/SW_OPER_SP3ACOM_2__20190927T235942_20190928T235942_0201/SW_OPER_SP3ACOM_2__20190927T235942_20190928T235942_0201.sp3",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu546-20180721_to_20180724.csv",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu553-20180811_to_20180814.csv",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu593-20181209_to_20181212.csv",
+            "STORM-AI/warmup/v2/OMNI2/omni2-wu224-20150929_to_20151128.csv",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
+            "STORM-AI/warmup/v2/Sat_Density/swarma-wu017-20140317_to_20140320.csv"
+        ]
+    }
+]

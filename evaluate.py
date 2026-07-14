@@ -111,7 +111,10 @@ def main():
         dataset_name = workload.replace("-tiny", "")
         dataset_directory = os.path.join(project_root_dir, f"data/{dataset_name}/tiny")
     else:
-        dataset_name = workload
+        # "<domain>_alternative" workloads (e.g. astronomy_alternative.json) hold
+        # alternative gold answers for tasks of an existing domain and run
+        # against that domain's data directory.
+        dataset_name = workload.replace("_alternative", "")
 
     results_df = None
     if args.use_evaluation_cache:
