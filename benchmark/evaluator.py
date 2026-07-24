@@ -47,7 +47,7 @@ class Evaluator:
         """Normalize a string by removing spaces, punctuation, and making it lowercase."""
         return re.sub(r'[^a-z0-9]', '', s.lower())
 
-    def evaluate_response_with_metric(self, task_id: str, system_response: Dict, target_answer: str | int | float, metric_name: str) -> Tuple[float, int, int, int]:
+    def evaluate_response_with_metric(self, task_id: str, system_response: Dict, target_answer: str | int | float | list, metric_name: str) -> Tuple[float, int, int, int]:
         """
         Evaluate a single system response against a target answer using the specified metric.
 
@@ -111,18 +111,32 @@ class Evaluator:
         evaluation_result = copy.deepcopy(response)
 
         target_metrics = self.answer_to_metric_dict[task['answer_type']]
+        # A task may declare `accepted_answers`: alternate golds (each shaped like
+        # `answer`) that are equally valid, e.g. when the query admits two defensible
+        # readings. Each metric is scored against every candidate and the best value
+        # is kept; tasks without `accepted_answers` behave exactly as before.
+        candidate_answers = [task["answer"]] + list(task.get("accepted_answers", []))
         total_token_usage_metrics = 0
         total_token_usage_metrics_input = 0
         total_token_usage_metrics_output = 0
         for metric in target_metrics:
-            score, token_usage, token_usage_input, token_usage_output = self.evaluate_response_with_metric(task["id"], 
-                                                                    response["model_output"], 
-                                                                    task["answer"], 
-                                                                    metric)
-            evaluation_result[metric] = score
-            total_token_usage_metrics += token_usage
-            total_token_usage_metrics_input += token_usage_input
-            total_token_usage_metrics_output += token_usage_output
+            best_score = None
+            higher_is_better = metric_factory(metric).higher_is_better
+            for candidate in candidate_answers:
+                score, token_usage, token_usage_input, token_usage_output = self.evaluate_response_with_metric(task["id"],
+                                                                        response["model_output"],
+                                                                        candidate,
+                                                                        metric)
+                total_token_usage_metrics += token_usage
+                total_token_usage_metrics_input += token_usage_input
+                total_token_usage_metrics_output += token_usage_output
+                if score is None:
+                    continue
+                if best_score is None:
+                    best_score = score
+                else:
+                    best_score = max(best_score, score) if higher_is_better else min(best_score, score)
+            evaluation_result[metric] = best_score
         evaluation_result["token_usage_metrics"] = total_token_usage_metrics
         evaluation_result["token_usage_metrics_input"] = total_token_usage_metrics_input
         evaluation_result["token_usage_metrics_output"] = total_token_usage_metrics_output
