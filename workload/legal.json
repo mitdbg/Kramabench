@@ -3618,7 +3618,7 @@
     },
     {
         "id": "legal-hard-15",
-        "query": "How many total Identity Theft reports were there in 2024 from cross-state Metropolitan Statistical Areas?",
+        "query": "How many total Identity Theft reports were there in 2024 from cross-state statistical areas (Metropolitan or Micropolitan)?",
         "answer": 243377,
         "runtime": 1,
         "answer_type": "numeric_exact",
@@ -3739,8 +3739,8 @@
             },
             {
                 "id": "legal-hard-15-3",
-                "step": "Mark an MSA as cross-state possibly by checking whether the extracted state code string contains a hyphen ('-').",
-                "query": "How many cross-state MSAs are there?",
+                "step": "Mark a statistical area as cross-state possibly by checking whether the extracted state code string contains a hyphen ('-').",
+                "query": "How many cross-state statistical areas (Metropolitan or Micropolitan) are there?",
                 "answer": 43,
                 "answer_type": "numeric_exact",
                 "data_sources": [
