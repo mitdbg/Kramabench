@@ -16,6 +16,10 @@ P = TypeVar('P')
 T = TypeVar('T')
 class Metric(Generic[P,T]):
     name = "Metric"
+    # Polarity used when a task lists multiple accepted answers and the best
+    # per-metric value across candidates is kept. Error-style metrics override
+    # this with False so "best" means the smallest value.
+    higher_is_better = True
 
     def __init__(self, *args, **kwargs):
         pass
@@ -249,6 +253,7 @@ class F1Approximate(Metric):
 class MeanSquaredError(Metric):
     # This method computes the squared error. The evaluation script is responsible for aggregating.
     name = "mean_squared_error"
+    higher_is_better = False
 
     def __call__(self, predicted: str | int | float, target: str | int | float):
         try:
@@ -264,6 +269,7 @@ class MeanSquaredError(Metric):
 class MeanAbsoluteError(Metric):
     # This method computes the squared error. The evaluation script is responsible for aggregating.
     name = "mean_absolute_error"
+    higher_is_better = False
 
     def __call__(self, predicted: str | int | float, target: str | int | float):
         try:
@@ -279,6 +285,7 @@ class MeanAbsoluteError(Metric):
 class MeanRelativeAbsoluteError(Metric):
     # This method computes the squared error. The evaluation script is responsible for aggregating.
     name = "mean_relative_absolute_error"
+    higher_is_better = False
 
     def __call__(self, predicted: str | int | float, target: str | int | float):
         logging.warning("DEPRECATION WARNING: Use RAEScore class instead!")
