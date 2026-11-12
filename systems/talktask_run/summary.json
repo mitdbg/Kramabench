@@ -1,0 +1,34 @@
+{
+ "archeology": {
+  "score": 33.333333333333336,
+  "tasks": 12,
+  "support": 12
+ },
+ "astronomy": {
+  "score": 37.5,
+  "tasks": 12,
+  "support": 12
+ },
+ "biomedical": {
+  "score": 44.44444444444444,
+  "tasks": 9,
+  "support": 9
+ },
+ "environment": {
+  "score": 73.33333333333333,
+  "tasks": 20,
+  "support": 20
+ },
+ "legal": {
+  "score": 71.96510304762111,
+  "tasks": 30,
+  "support": 30
+ },
+ "wildfire": {
+  "score": 48.80107023871187,
+  "tasks": 21,
+  "support": 21
+ },
+ "overall_by_task": 56.73502147219471,
+ "overall_mean_of_domains": 51.56288073290735
+}
