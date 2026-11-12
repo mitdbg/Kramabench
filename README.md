@@ -28,7 +28,7 @@ Overall evaluation results by domain for KramaBench:
 |                              | Llama-3 Instruct | 0.00% | 1.35% | 6.98% | 0.93% | 2.15 % | 14.49 % | **4.48 %** |
 |                              | DeepSeek-R1      | 8.33% | 2.64% | 2.87% | 19.08% | 8.39 % | 30.29 % | **6.34 %** |
 |                              | Qwen-2 Coder     | 8.33% | 2.40% | 4.35% | 12.64% | 9.06 % | 16.48 % | **9.98 %** |
-| **TalkTask** (single run)     | DeepSeek-V4-Flash + Jev | 33.33% | 37.50% | 44.44% | 73.33% | 71.97 % | 48.80 % | **56.74 %** |
+| **TalkTask** (single run)     | DeepSeek-V4-Flash + Jev | - | - | - | - | - | - | **56.74 %** |
 
 
 ## Breakdown of tasks per domain
