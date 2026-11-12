@@ -1,0 +1,104 @@
+{"task_id": "archeology-easy-10", "answer_line": "Singapore", "abstained": false, "answer_handed_in": "Singapore"}
+{"task_id": "archeology-easy-11", "answer_line": "17.1667 degrees", "abstained": false, "answer_handed_in": 17.1667}
+{"task_id": "archeology-easy-3", "answer_line": "3.1333", "abstained": false, "answer_handed_in": 3.1333}
+{"task_id": "archeology-easy-4", "answer_line": null, "abstained": true, "answer_handed_in": null}
+{"task_id": "archeology-easy-6", "answer_line": "São Paulo", "abstained": false, "answer_handed_in": "São Paulo"}
+{"task_id": "archeology-easy-8", "answer_line": "55", "abstained": false, "answer_handed_in": 55}
+{"task_id": "archeology-hard-1", "answer_line": "8,347.1887 ppm", "abstained": false, "answer_handed_in": 8347.1887}
+{"task_id": "archeology-hard-12", "answer_line": "449", "abstained": false, "answer_handed_in": 449}
+{"task_id": "archeology-hard-2", "answer_line": "49.75%", "abstained": false, "answer_handed_in": 49.75}
+{"task_id": "archeology-hard-5", "answer_line": "36,828.7165 ppm", "abstained": false, "answer_handed_in": 36828.7165}
+{"task_id": "archeology-hard-7", "answer_line": "274", "abstained": false, "answer_handed_in": 274}
+{"task_id": "archeology-hard-9", "answer_line": "-0.210104", "abstained": false, "answer_handed_in": -0.210104}
+{"task_id": "astronomy-easy-1", "answer_line": "15 Ap units", "abstained": false, "answer_handed_in": 15}
+{"task_id": "astronomy-easy-2", "answer_line": "6.37", "abstained": false, "answer_handed_in": 6.37}
+{"task_id": "astronomy-easy-3", "answer_line": null, "abstained": true, "answer_handed_in": null}
+{"task_id": "astronomy-easy-4", "answer_line": "1979.5, 1989.5, 2000.5, 1968.5, 2014.5. Minimum years: 2019.5, 2008.5, 1996.5, 1986.5, 1964.5. Period: about 11.5 years peak to peak and 11.0 years trough to trough", "abstained": false, "answer_handed_in": "1979.5, 1989.5, 2000.5, 1968.5, 2014.5. Minimum years: 2019.5, 2008.5, 1996.5, 1986.5, 1964.5. Period: about 11.5 years peak to peak and 11.0 years trough to trough"}
+{"task_id": "astronomy-easy-5", "answer_line": "2", "abstained": false, "answer_handed_in": 2}
+{"task_id": "astronomy-easy-6", "answer_line": "0.006853 km/day; 0.054269 km/day", "abstained": false, "answer_handed_in": [0.006853, 0.054269]}
+{"task_id": "astronomy-hard-10", "answer_line": "0.121", "abstained": false, "answer_handed_in": 0.121}
+{"task_id": "astronomy-hard-11", "answer_line": "7.274262680728956e-13 kg/m3 as computed — not a valid year-long RMSE (the run's median Swarm-B 'latitude' of 180.997795 degrees is not a possible latitude)", "abstained": false, "answer_handed_in": "7.274262680728956e-13 kg/m3 as computed — not a valid year-long RMSE (the run's median Swarm-B 'latitude' of 180.997795 degrees is not a possible latitude)"}
+{"task_id": "astronomy-hard-12", "answer_line": "4344495.87 J/kg", "abstained": false, "answer_handed_in": 4344495.87}
+{"task_id": "astronomy-hard-7", "answer_line": "3.1588706785069054e-13 kg/m^3", "abstained": false, "answer_handed_in": 3.1588706785069054e-13}
+{"task_id": "astronomy-hard-8", "answer_line": "6.398057568642243e-07; 5.073863966657839e-07", "abstained": false, "answer_handed_in": [6.398057568642243e-07, 5.073863966657839e-07]}
+{"task_id": "astronomy-hard-9", "answer_line": "24 hours", "abstained": false, "answer_handed_in": 24}
+{"task_id": "biomedical-easy-2", "answer_line": "68.08 years", "abstained": false, "answer_handed_in": 68.08}
+{"task_id": "biomedical-easy-6", "answer_line": "IA", "abstained": false, "answer_handed_in": "IA"}
+{"task_id": "biomedical-easy-9", "answer_line": "-0.16 lower average protein false discovery rate for CBX3 genes than for the rest of the genes; -0.3 lower on the RNA false discovery rate", "abstained": false, "answer_handed_in": [-0.16, -0.3]}
+{"task_id": "biomedical-hard-1", "answer_line": "0.4765", "abstained": false, "answer_handed_in": 0.4765}
+{"task_id": "biomedical-hard-3", "answer_line": "60 years", "abstained": false, "answer_handed_in": 60}
+{"task_id": "biomedical-hard-4", "answer_line": null, "abstained": true, "answer_handed_in": null}
+{"task_id": "biomedical-hard-5", "answer_line": "2.6563 variants per Mb", "abstained": false, "answer_handed_in": 2.6563}
+{"task_id": "biomedical-hard-7", "answer_line": "21", "abstained": false, "answer_handed_in": 21}
+{"task_id": "biomedical-hard-8", "answer_line": "CDK12; SMARCA4", "abstained": true, "answer_handed_in": null}
+{"task_id": "environment-easy-1", "answer_line": "4.796%", "abstained": false, "answer_handed_in": 4.796}
+{"task_id": "environment-easy-2", "answer_line": "2003; 2011; 2015; 2018; 2020; 2021; 2022; 2023", "abstained": false, "answer_handed_in": [2003, 2011, 2015, 2018, 2020, 2021, 2022, 2023]}
+{"task_id": "environment-easy-3", "answer_line": "267", "abstained": false, "answer_handed_in": 267}
+{"task_id": "environment-easy-4", "answer_line": "86%", "abstained": false, "answer_handed_in": 86}
+{"task_id": "environment-easy-5", "answer_line": "Ashburnham", "abstained": false, "answer_handed_in": "Ashburnham"}
+{"task_id": "environment-easy-6", "answer_line": "5.14%", "abstained": false, "answer_handed_in": 5.14}
+{"task_id": "environment-hard-10", "answer_line": "0.206", "abstained": false, "answer_handed_in": 0.206}
+{"task_id": "environment-hard-11", "answer_line": "0.37", "abstained": false, "answer_handed_in": 0.37}
+{"task_id": "environment-hard-12", "answer_line": "Wollaston Beach", "abstained": false, "answer_handed_in": "Wollaston Beach"}
+{"task_id": "environment-hard-13", "answer_line": "11", "abstained": false, "answer_handed_in": 11}
+{"task_id": "environment-hard-14", "answer_line": "Marine", "abstained": false, "answer_handed_in": "Marine"}
+{"task_id": "environment-hard-15", "answer_line": "Damon Pond Beach (DCR)", "abstained": false, "answer_handed_in": "Damon Pond Beach (DCR)"}
+{"task_id": "environment-hard-16", "answer_line": "74", "abstained": false, "answer_handed_in": 74}
+{"task_id": "environment-hard-17", "answer_line": "47.37%", "abstained": false, "answer_handed_in": 47.37}
+{"task_id": "environment-hard-18", "answer_line": "True", "abstained": false, "answer_handed_in": "True"}
+{"task_id": "environment-hard-19", "answer_line": "True", "abstained": false, "answer_handed_in": "True"}
+{"task_id": "environment-hard-20", "answer_line": "Bucks Creek; Pleasant Street; White Pond Town Landing", "abstained": false, "answer_handed_in": ["Bucks Creek", "Pleasant Street", "White Pond Town Landing"]}
+{"task_id": "environment-hard-7", "answer_line": "10.87 percentage points", "abstained": false, "answer_handed_in": 10.87}
+{"task_id": "environment-hard-8", "answer_line": "54.73%", "abstained": false, "answer_handed_in": 54.73}
+{"task_id": "environment-hard-9", "answer_line": "city point; pleasure bay and castle island", "abstained": false, "answer_handed_in": ["city point", "pleasure bay and castle island"]}
+{"task_id": "legal-easy-10", "answer_line": "2010; 2011; 2012; 2013; 2014; 2019", "abstained": false, "answer_handed_in": [2010, 2011, 2012, 2013, 2014, 2019]}
+{"task_id": "legal-easy-11", "answer_line": "No", "abstained": false, "answer_handed_in": "No"}
+{"task_id": "legal-easy-12", "answer_line": "3", "abstained": false, "answer_handed_in": 3}
+{"task_id": "legal-easy-13", "answer_line": "1,097.47", "abstained": false, "answer_handed_in": 1097.47}
+{"task_id": "legal-easy-19", "answer_line": "0.240", "abstained": false, "answer_handed_in": 0.24}
+{"task_id": "legal-easy-20", "answer_line": "40%", "abstained": false, "answer_handed_in": 40}
+{"task_id": "legal-easy-21", "answer_line": "13,596", "abstained": false, "answer_handed_in": 13596}
+{"task_id": "legal-easy-25", "answer_line": "U.S. Space Force", "abstained": false, "answer_handed_in": "U.S. Space Force"}
+{"task_id": "legal-easy-26", "answer_line": "Arizona; Arkansas; California; Massachusetts; Ohio; Oklahoma; Rhode Island", "abstained": false, "answer_handed_in": ["Arizona", "Arkansas", "California", "Massachusetts", "Ohio", "Oklahoma", "Rhode Island"]}
+{"task_id": "legal-easy-27", "answer_line": "27", "abstained": false, "answer_handed_in": 27}
+{"task_id": "legal-easy-3", "answer_line": "13.16", "abstained": false, "answer_handed_in": 13.16}
+{"task_id": "legal-easy-4", "answer_line": null, "abstained": true, "answer_handed_in": null}
+{"task_id": "legal-easy-5", "answer_line": "$5,435 million", "abstained": false, "answer_handed_in": 5435}
+{"task_id": "legal-easy-9", "answer_line": "2002", "abstained": false, "answer_handed_in": 2002}
+{"task_id": "legal-hard-1", "answer_line": "12,964.87 reported identity thefts on average", "abstained": false, "answer_handed_in": 12964.87}
+{"task_id": "legal-hard-14", "answer_line": "Boston-Cambridge-Newton, MA-NH Metropolitan Statistical Area; Providence-Warwick, RI-MA Metropolitan Statistical Area; Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area; Bridgepor", "abstained": false, "answer_handed_in": ["Boston-Cambridge-Newton, MA-NH Metropolitan Statistical Area", "Providence-Warwick, RI-MA Metropolitan Statistical Area", "Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area", "Bridgepor"]}
+{"task_id": "legal-hard-15", "answer_line": "58,643 Identity Theft reports", "abstained": false, "answer_handed_in": 58643}
+{"task_id": "legal-hard-16", "answer_line": "Florida", "abstained": true, "answer_handed_in": null}
+{"task_id": "legal-hard-17", "answer_line": "32,542 reports", "abstained": false, "answer_handed_in": 32542}
+{"task_id": "legal-hard-18", "answer_line": "126,000 identity theft reports", "abstained": false, "answer_handed_in": 126000}
+{"task_id": "legal-hard-2", "answer_line": "Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Statistical Area", "abstained": false, "answer_handed_in": "Miami-Fort Lauderdale-West Palm Beach, FL Metropolitan Statistical Area"}
+{"task_id": "legal-hard-22", "answer_line": "0.0442", "abstained": false, "answer_handed_in": 0.0442}
+{"task_id": "legal-hard-23", "answer_line": "District of Columbia", "abstained": false, "answer_handed_in": "District of Columbia"}
+{"task_id": "legal-hard-24", "answer_line": "Los Angeles-Long Beach-Anaheim, CA Metropolitan Statistical Area", "abstained": false, "answer_handed_in": "Los Angeles-Long Beach-Anaheim, CA Metropolitan Statistical Area"}
+{"task_id": "legal-hard-28", "answer_line": "Yes", "abstained": false, "answer_handed_in": "Yes"}
+{"task_id": "legal-hard-29", "answer_line": null, "abstained": true, "answer_handed_in": null}
+{"task_id": "legal-hard-30", "answer_line": "No", "abstained": false, "answer_handed_in": "No"}
+{"task_id": "legal-hard-6", "answer_line": "1.1413", "abstained": false, "answer_handed_in": 1.1413}
+{"task_id": "legal-hard-7", "answer_line": "Bank Account", "abstained": false, "answer_handed_in": "Bank Account"}
+{"task_id": "legal-hard-8", "answer_line": "True", "abstained": false, "answer_handed_in": "True"}
+{"task_id": "wildfire-easy-1", "answer_line": "6,604,630", "abstained": false, "answer_handed_in": 6604630}
+{"task_id": "wildfire-easy-13", "answer_line": null, "abstained": true, "answer_handed_in": null}
+{"task_id": "wildfire-easy-15", "answer_line": "No", "abstained": false, "answer_handed_in": "No"}
+{"task_id": "wildfire-easy-2", "answer_line": "EACC", "abstained": true, "answer_handed_in": null}
+{"task_id": "wildfire-easy-3", "answer_line": "California; Nevada", "abstained": false, "answer_handed_in": ["California", "Nevada"]}
+{"task_id": "wildfire-easy-8", "answer_line": "Lightning", "abstained": false, "answer_handed_in": "Lightning"}
+{"task_id": "wildfire-easy-9", "answer_line": "-0.0053 fatalities per record", "abstained": false, "answer_handed_in": -0.0053}
+{"task_id": "wildfire-hard-10", "answer_line": "Republican", "abstained": false, "answer_handed_in": "Republican"}
+{"task_id": "wildfire-hard-11", "answer_line": "Wyoming", "abstained": false, "answer_handed_in": "Wyoming"}
+{"task_id": "wildfire-hard-12", "answer_line": "Yes", "abstained": false, "answer_handed_in": "Yes"}
+{"task_id": "wildfire-hard-14", "answer_line": "-0.08", "abstained": false, "answer_handed_in": -0.08}
+{"task_id": "wildfire-hard-16", "answer_line": "6.326; 0.787", "abstained": false, "answer_handed_in": [6.326, 0.787]}
+{"task_id": "wildfire-hard-17", "answer_line": "3,317.37 feet", "abstained": false, "answer_handed_in": 3317.37}
+{"task_id": "wildfire-hard-18", "answer_line": "Faster: yes. Fewer buildings at risk: no", "abstained": true, "answer_handed_in": null}
+{"task_id": "wildfire-hard-19", "answer_line": "27.35%", "abstained": false, "answer_handed_in": 27.35}
+{"task_id": "wildfire-hard-20", "answer_line": null, "abstained": true, "answer_handed_in": null}
+{"task_id": "wildfire-hard-21", "answer_line": "California; Idaho; Montana", "abstained": false, "answer_handed_in": ["California", "Idaho", "Montana"]}
+{"task_id": "wildfire-hard-4", "answer_line": "2023", "abstained": false, "answer_handed_in": 2023}
+{"task_id": "wildfire-hard-5", "answer_line": "3,205 fewer fires", "abstained": false, "answer_handed_in": 3205}
+{"task_id": "wildfire-hard-6", "answer_line": "0.148", "abstained": false, "answer_handed_in": 0.148}
+{"task_id": "wildfire-hard-7", "answer_line": "2020", "abstained": false, "answer_handed_in": 2020}
