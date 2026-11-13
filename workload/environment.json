@@ -1804,6 +1804,7 @@
         "answer_type": "numeric_exact",
         "runtime": 0.1,
         "data_sources": [
+            "water-body-testing-2023.csv",
             "water-body-testing-2022.csv",
             "water-body-testing-2021.csv",
             "water-body-testing-2020.csv",
@@ -1832,6 +1833,7 @@
                 "step": "Iterate over the years 2002-2023 and read each yearly CSV (water-body-testing-<year>.csv).",
                 "query": "Which files are needed for the analysis?",
                 "answer": [
+                    "water-body-testing-2023.csv",
                     "water-body-testing-2022.csv",
                     "water-body-testing-2021.csv",
                     "water-body-testing-2020.csv",
@@ -1856,6 +1858,7 @@
                 ],
                 "answer_type": "list_approximate",
                 "data_sources": [
+                    "water-body-testing-2023.csv",
                     "water-body-testing-2022.csv",
                     "water-body-testing-2021.csv",
                     "water-body-testing-2020.csv",
@@ -10848,7 +10851,7 @@
         "runtime": 0.5,
         "data_sources": [
             "monthly_precipitations_chatham.csv",
-            "water-body-testing-2016.csv"
+            "water-body-testing-2006.csv"
         ],
         "subtasks": [
             {
