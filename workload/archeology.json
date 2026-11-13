@@ -61157,8 +61157,8 @@
             },
             {
                 "id": "archeology-easy-8-2",
-                "step": "Filter out rows where 'Select Bibliography' is null. Split each bibliography on semicolons, strip whitespace, remove question marks and periods, keep the text before any colon, and discard empty strings.",
-                "query": "Which bibliography sources are present after normalizing the entries?",
+                "step": "Filter out rows where the 'Select Bibliography' field is null to keep only cities that list at least one source. Split each bibliography on semicolons, strip whitespace, remove question marks and periods, keep the text before any colon, and discard empty strings.",
+                "query": "What are the sources listed for each entry in the dataset?",
                 "answer": [
                     "1995",
                     "BNP",
@@ -61218,7 +61218,7 @@
             },
             {
                 "id": "archeology-easy-8-3",
-                "step": "Take the unique set of the normalized source strings.",
+                "step": "Take the unique set of the source strings",
                 "query": "What are the unique and individual sources identified from the list?",
                 "answer": [
                     "Brunt 1971",

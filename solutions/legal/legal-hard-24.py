@@ -1,5 +1,6 @@
 import csv
 import typing as t
+import numpy as np
 data_path = "./data/legal/input/"
 
 class TableCsv:
@@ -28,8 +29,7 @@ class Table:
         attributes: t.Dict[str, t.Any] = {}
         current_block = []
         first_table = True
-        # Flush the final block even when the CSV has no trailing blank row.
-        for row in raw_contents[1:] + [[]]:
+        for row in raw_contents[1:]:
             cleaned_row = [cell.strip() for cell in row]
             if not any(cleaned_row):
                 # start of the next attribute
@@ -87,10 +87,9 @@ def solve_legal_hard_24() -> float:
     best_region = None
     best_score = -1
     for row in sub_table3.values:
-        report_count = int(row[1].replace(',', ''))
-        if best_score < report_count:
+        if best_score < int(row[1].replace(',', '')):
             best_region = row[0]
-            best_score = report_count
+            best_score = int(row[1].replace(',', ''))
     return best_region
 print(solve_legal_hard_24())
 
