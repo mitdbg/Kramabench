@@ -61157,7 +61157,7 @@
             },
             {
                 "id": "archeology-easy-8-2",
-                "step": "Filter out rows where the 'Select Bibliography' field is null to keep only cities that list at least one source.",
+                "step": "Filter out rows where the 'Select Bibliography' field is null to keep only cities that list at least one source. Split each bibliography on semicolons, strip whitespace, remove question marks and periods, keep the text before any colon, and discard empty strings.",
                 "query": "What are the sources listed for each entry in the dataset?",
                 "answer": [
                     "1995",
@@ -61238,7 +61238,7 @@
                     "Quinn and Wilson 2013",
                     "Jones 1937",
                     "Bedon 2001",
-                    "Millett 1990: Table 44",
+                    "Millett 1990",
                     "Burnham and Wacher 1990",
                     "McEvedy 2011",
                     "Humphrey 1986",
@@ -61260,13 +61260,11 @@
                     "Salmon 1969",
                     "Beloch 1880",
                     "Broshi 1979",
-                    "Millett 1990: Table 65",
                     "Wilkes 2003a",
                     "DGRG",
                     "Benario 1981",
                     "Wilson 2013",
                     "Wacher 1995",
-                    "DGRG?",
                     "Rivet 1988",
                     "Golvin 1988",
                     "Hansen 2006",
@@ -61274,8 +61272,7 @@
                     "Wilkes 2003b",
                     "PEC",
                     "Keay 1998",
-                    "Cornell and Mathews 1982",
-                    "PECS?"
+                    "Cornell and Mathews 1982"
                 ],
                 "answer_type": "list_exact",
                 "data_sources": "roman_cities.csv"
@@ -61284,7 +61281,7 @@
                 "id": "archeology-easy-8-4",
                 "step": "Find the size of the unique set.",
                 "query": "What is the number of distinct sources listed for the cities?",
-                "answer": 55,
+                "answer": 52,
                 "answer_type": "numeric_exact",
                 "data_sources": "roman_cities.csv"
             }
