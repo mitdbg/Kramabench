@@ -1,3 +1,4 @@
+import ast
 import json
 import logging
 from typing import Generic, List, Tuple, TypeVar
@@ -119,7 +120,7 @@ class F1(Metric):
                 except json.JSONDecodeError:
                     try:
                         # Try eval for Python literal evaluation
-                        predicted = eval(predicted)
+                        predicted = ast.literal_eval(predicted)
                     except:
                         # Fall back to comma-separated parsing
                         # Handle comma-separated strings like "Bucks Creek, Pleasant Street, Forest Street"
@@ -197,7 +198,7 @@ class F1Approximate(Metric):
                 try:
                     predicted = json.loads(predicted)
                 except json.JSONDecodeError:
-                    predicted = eval(predicted)
+                    predicted = ast.literal_eval(predicted)
             predicted = list(predicted)  # ensure list
             if len(target) == 0:
                 return (float(len(predicted) == 0), total_token_usage, token_usage_input, token_usage_output)
