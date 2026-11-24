@@ -98,6 +98,7 @@
         "id": "astronomy-easy-2",
         "query": "Calculate the ratio of peak atmospheric mass density experienced by Swarm A satellite during March 14th-17th 2014 vs July 18th-21st 2018.",
         "answer": 7.52,
+        "accepted_answers": [6.374],
         "answer_type": "numeric_exact",
         "runtime": 0.1,
         "data_sources": [
@@ -107,11 +108,19 @@
         "subtasks": [
             {
                 "id": "astronomy-easy-2-1",
-                "step": "Read swarma-wu016-20140314_to_20140317.csv and swarma-wu545-20180718_to_20180721.csv.",
+                "step": "Read swarma-wu016-20140314_to_20140317.csv and swarma-wu545-20180718_to_20180721.csv. Each 3-day file ends exactly at midnight of its final day, so reading the date ranges as full calendar days additionally requires swarma-wu017 and swarma-wu546, which hold the remainder of March 17 and July 21.",
                 "query": "Identify the files containing the density data for 2014 and 2018",
                 "answer": [
                     "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
                     "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv"
+                ],
+                "accepted_answers": [
+                    [
+                        "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
+                        "STORM-AI/warmup/v2/Sat_Density/swarma-wu017-20140317_to_20140320.csv",
+                        "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv",
+                        "STORM-AI/warmup/v2/Sat_Density/swarma-wu546-20180721_to_20180724.csv"
+                    ]
                 ],
                 "data_sources": [
                     "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
@@ -131,12 +140,13 @@
             },
             {
                 "id": "astronomy-easy-2-3",
-                "step": "Record the maximum value found in the density column (peak density) for July 2018",
+                "step": "Record the maximum value found in the density column (peak density) for July 2018. Within the swarma-wu545 file window (ending 2018-07-21 00:00) the peak is 1.767e-13; reading July 18th-21st as full calendar days, the peak is 2.084e-13 at 2018-07-21 13:10, which lies in swarma-wu546.",
                 "query": "What is the maximum value of the atmospheric mass density in July 2018 recorded from the data?",
                 "answer": 1.767e-13,
+                "accepted_answers": [2.084e-13],
                 "answer_type": "numeric_exact",
                 "data_sources": [
-                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv"
+                    "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv"
                 ]
             },
             {
@@ -144,6 +154,7 @@
                 "step": "Compute the ratio peak_Mar2014 / peak_Jul2018, but only if the first peak is positive to avoid divide-by-zero or sign issues.",
                 "query": "What is the calculated ratio of the peak densities if the peak density in March 2014 is greater than zero?",
                 "answer": 7.52,
+                "accepted_answers": [6.374],
                 "data_sources": [
                     "STORM-AI/warmup/v2/Sat_Density/swarma-wu016-20140314_to_20140317.csv",
                     "STORM-AI/warmup/v2/Sat_Density/swarma-wu545-20180718_to_20180721.csv"
